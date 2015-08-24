@@ -44,7 +44,7 @@ body {
 }
 
 .analytics-card > h1 {
-	font-size: 5em;
+	font-size: 3.5em;
 	margin-bottom: 0em;
 }
 
@@ -52,5 +52,8 @@ body {
 	margin-top: 0em;
 }
 
+.haiku-img {
+	width: 100%;
+}
 
 

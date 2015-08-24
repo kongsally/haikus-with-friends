@@ -7,13 +7,14 @@ var wordCounts = [];
 var wordObjects = [];
 var totalWordCnt = 0;
 var friends = [];
+var dates = [];
 
 window.onload = initialize;
 
 function initialize() {
 	imgCnt = 1;
-	Parse.initialize("aNDAZRLAojJH7aCQ0my1U0AxUBLVBlba6XhRlGa2", 
-		"pcAOB3TF0npsLLUxM4BWr6gpt5cbYKGUoEqi2pls");
+	// Parse.initialize("aNDAZRLAojJH7aCQ0my1U0AxUBLVBlba6XhRlGa2", 
+	// 	"pcAOB3TF0npsLLUxM4BWr6gpt5cbYKGUoEqi2pls");
 
 	// var HaikuObject = Parse.Object.extend("Haiku");
 	// var query = new Parse.Query(HaikuObject);
@@ -48,10 +49,12 @@ function populateHaikus() {
 	    	+ "</div></div>");
 		countWords(haikus[i]);
 		countFriends(haikus[i]);
+		countDates(haikus[i]);
 		totalWordCnt += haikus[i].wordCount;
 	}
 	wordObjects.sort(compareCnt);
 	friends.sort(compareCnt);
+	dates.sort(compareCnt);
 }
 
 function Word(word) {
@@ -61,6 +64,11 @@ function Word(word) {
 
 function Friend(name) {
 	this.name = name;
+	this.cnt = 1;
+}
+
+function Date(date) {
+	this.date = date;
 	this.cnt = 1;
 }
 
@@ -82,6 +90,15 @@ function findFriend(name) {
 	return -1;
 }
 
+function findDate(date) {
+	for(var i = 0; i < dates.length; i++) {
+		if (dates[i].date === date) {
+			return i;
+		} 
+	}
+	return -1;
+}
+
 function countFriends(haiku) {
 	var writers = haiku.writers;
 	for (var i = 0; i < writers.length; i++) {
@@ -92,6 +109,16 @@ function countFriends(haiku) {
 		} else {
 			friends.push(new Friend(currentPerson));
 		}
+	}
+}
+
+function countDates(haiku) {
+	var currentDate = haiku.date;
+	var currentIndex = findDate(currentDate);
+	if(currentIndex > -1) {
+		dates[currentIndex].cnt += 1;
+	} else {
+		dates.push(new Date(currentDate));
 	}
 }
 
@@ -155,7 +182,7 @@ function compareCnt(a,b) {
 
 function printAnalysis() {
 	$("#total-haikus").prepend("<h1>" + haikus.length + "</h1>");
-	$("#total-words").prepend("<h1>" + totalWordCnt + "</h1>");
-	$("#total-unique-words").prepend("<h1>" + wordObjects.length + "</h1>")
+	$("#total-words").prepend("<h1>" + wordObjects.length + "</h1>");
+	$("#total-days").prepend("<h1>" + dates.length + "</h1>")
 	$("#total-friends").prepend("<h1>" + friends.length + "</h1>");
 }
