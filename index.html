@@ -1,23 +1,22 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<link rel="stylesheet" href="material.min.css">
-<link rel="stylesheet" href="main.css">
-<script src="material.min.js"></script>
-<script src="jquery.min.js"></script>
-<script src="parse.min.js"></script>
-<script src="chart.min.js"></script>
-<script src="main.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Haikus</title>
+	<link rel="stylesheet" href="material.min.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" href="main.css">
+	<script src="material.min.js"></script>
+	<script src="jquery.min.js"></script>
+	<script src="parse.min.js"></script>
+	<script src="chart.min.js"></script>
+	<script src="main.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Haikus</title>
 </head>
 
 <body>
 <div class="mdl-layout mdl-js-layout">
  <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
-      <!-- Title -->
       <span class="mdl-layout-title">Haikus</span>
     </div>
  </header>
@@ -29,10 +28,21 @@
    </nav>
  </div>
  <main class="mdl-layout__content">
- <div class ="analytics"></div>
- <div class="mdl-grid haiku-grid">
-
- </div>
+	 <div class="mdl-grid analytics">
+	 	<div id="total-haikus" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
+	 		<h4>Haikus</h4>
+	 	</div>
+	 	<div id="total-words" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
+	 		<h4>Words</h4>
+	 	</div>
+	 	<div id="total-unique-words" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
+	 		<h4>Unique Words</h4>
+	 	</div>
+	 	<div id="total-friends" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
+	 		<h4>Friends</h4>
+	 	</div>
+	 </div>
+	 <div class="mdl-grid haiku-grid"></div>
  </main>
  </div>
 </body>

@@ -20,6 +20,10 @@ body {
 	height:auto;
 }
 
+#haiku-date {
+	text-align: right;
+}
+
 .mdl-layout__drawer-button {
 	background-color: #3f51b5;
 	border-radius: 10%;
@@ -33,3 +37,20 @@ body {
 	text-align: right;
 	padding: 2em;
 }
+
+.analytics-card {
+	text-align: center;
+	padding: 2em;
+}
+
+.analytics-card > h1 {
+	font-size: 5em;
+	margin-bottom: 0em;
+}
+
+.analytics-card > h4 {
+	margin-top: 0em;
+}
+
+
+

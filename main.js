@@ -34,14 +34,16 @@ function initialize() {
 
 function populateHaikus() {
 	for(var i = 0; i < haikus.length; i++) {
-		$(".haiku-grid").append("<div class='mdl-cell mdl-card mdl-shadow--2dp'><div class='mdl-card__title mdl-card--expand'><h3 class='mdl-card__title-text'>" 
+		$(".haiku-grid").append("<div class='mdl-cell mdl-card mdl-shadow--2dp'>"
+			+ "<div class='mdl-card__title mdl-card--expand'>"
+			+ "<h3 class='mdl-card__title-text'>" 
 			+ haikus[i].haiku1.join(' ') + "<br>"
 	    	+ haikus[i].haiku2.join(' ') + "<br>"
 	    	+ haikus[i].haiku3.join(' ') + "<br>"
 			+ "</h3></div><div class='mdl-card__supporting-text'>"
 	    	+ "Sally & " + haikus[i].writers.join(' &')
 	        + " @ " + haikus[i].place
-	    	+ "</div><div class='mdl-card__actions mdl-card--border'>"
+	    	+ "</div><div id='haiku-date' class='mdl-card__actions mdl-card--border'>"
 	        + haikus[i].date
 	    	+ "</div></div>");
 		countWords(haikus[i]);
@@ -152,12 +154,8 @@ function compareCnt(a,b) {
 }
 
 function printAnalysis() {
-	$(".analytics").append("<h5>Total haikus: " 
-		+ haikus.length + "</h5>");
-	$(".analytics").append("<h5>Total words: " 
-		+ totalWordCnt + "</h5>");
-	$(".analytics").append("<h5>Total unique words: " 
-		+ wordObjects.length + "</h5>");
-	$(".analytics").append("<h5>Total friends: " 
-		+ friends.length + "</h5>");
+	$("#total-haikus").prepend("<h1>" + haikus.length + "</h1>");
+	$("#total-words").prepend("<h1>" + totalWordCnt + "</h1>");
+	$("#total-unique-words").prepend("<h1>" + wordObjects.length + "</h1>")
+	$("#total-friends").prepend("<h1>" + friends.length + "</h1>");
 }
