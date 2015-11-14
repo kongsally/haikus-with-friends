@@ -1,6 +1,3 @@
-var imgCnt;
-var imgIndex;
-var currentImg;
 var haikus;
 var words = [];
 var wordCounts = [];
@@ -12,20 +9,6 @@ var dates = [];
 window.onload = initialize;
 
 function initialize() {
-	imgCnt = 1;
-	// Parse.initialize("aNDAZRLAojJH7aCQ0my1U0AxUBLVBlba6XhRlGa2", 
-	// 	"pcAOB3TF0npsLLUxM4BWr6gpt5cbYKGUoEqi2pls");
-
-	// var HaikuObject = Parse.Object.extend("Haiku");
-	// var query = new Parse.Query(HaikuObject);
-	// query.find({
-	// 	success : function(results) {
-	// 		haikus = results;
-	// 		populateHaikus();
-	// 		printAnalysis();
-	// 	}
-	// });
-
 	$.getJSON("Haikus.json", function(json) {
 		haikus = json.results;
 		populateHaikus();
