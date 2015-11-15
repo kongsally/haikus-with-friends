@@ -2,7 +2,7 @@ var haikus;
 var words = [];
 var wordCounts = [];
 var wordObjects = [];
-var totalWordCnt = 0;
+var totalWordvalue = 0;
 var friends = [];
 var dates = [];
 
@@ -33,26 +33,63 @@ function populateHaikus() {
 		countWords(haikus[i]);
 		countFriends(haikus[i]);
 		countDates(haikus[i]);
-		totalWordCnt += haikus[i].wordCount;
+		totalWordvalue += haikus[i].wordCount;
 	}
-	wordObjects.sort(compareCnt);
-	friends.sort(compareCnt);
-	dates.sort(compareCnt);
+	wordObjects.sort(comparevalue);
+	friends.sort(comparevalue);
+	dates.sort(comparevalue);
+	drawChart();
+}
+
+function drawChart() {
+	var ctx = document.getElementById("myChart").getContext("2d");
+	var options = 
+	{
+    //Boolean - Whether we should show a stroke on each segment
+    segmentShowStroke : false,
+    //String - The colour of each segment stroke
+    segmentStrokeColor : "#fff",
+    //Number - The width of each segment stroke
+    segmentStrokeWidth : 2,
+    //Number - The percentage of the chart that we cut out of the middle
+    percentageInnerCutout : 50, // This is 0 for Pie charts
+    //Number - Amount of animation steps
+    animationSteps : 100,
+    //String - Animation easing effect
+    animationEasing : "easeOutBounce",
+    //Boolean - Whether we animate the rotation of the Doughnut
+    animateRotate : false,
+    //Boolean - Whether we animate scaling the Doughnut from the centre
+    animateScale : true,
+    //String - A legend template
+    legendTemplate : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<segments.length; i++){%><li><span style=\"background-color:<%=segments[i].fillColor%>\"></span><%if(segments[i].label){%><%=segments[i].label%><%}%></li><%}%></ul>"
+	}
+	var myDoughnutChart = new Chart(ctx).Doughnut(friends, options);
+	myDoughnutChart.generateLegend();
 }
 
 function Word(word) {
 	this.val = word;
-	this.cnt = 1;
+	this.value = 1;
 }
 
 function Friend(name) {
 	this.name = name;
-	this.cnt = 1;
+	this.value = 1;
 }
 
 function Date(date) {
 	this.date = date;
-	this.cnt = 1;
+	this.value = 1;
+}
+
+function getRandomColor() {
+    var letters = '0123456789ABCDEF'.split('');
+    var color = '#';
+    for (var i = 0; i < 6; i++ ) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
 }
 
 function findWord(word) {
@@ -88,7 +125,9 @@ function countFriends(haiku) {
 		var currentPerson = writers[i].trim();
 		var currentIndex = findFriend(currentPerson);
 		if(currentIndex > -1) {
-			friends[currentIndex].cnt += 1;
+			friends[currentIndex].value += 1;
+			friends[currentIndex].color = getRandomColor();
+			friends[currentIndex].label = currentPerson;
 		} else {
 			friends.push(new Friend(currentPerson));
 		}
@@ -99,7 +138,7 @@ function countDates(haiku) {
 	var currentDate = haiku.date;
 	var currentIndex = findDate(currentDate);
 	if(currentIndex > -1) {
-		dates[currentIndex].cnt += 1;
+		dates[currentIndex].value += 1;
 	} else {
 		dates.push(new Date(currentDate));
 	}
@@ -117,7 +156,7 @@ function countWords(haiku) {
 		// var currIndex = words.indexOf(currWord);
 		var currIndex = findWord(currWord);
 		if(currIndex > -1) {
-			wordObjects[currIndex].cnt += 1;
+			wordObjects[currIndex].value += 1;
 			wordCounts[currIndex] += 1;
 		} else {
 			wordObjects.push(new Word(currWord));
@@ -133,7 +172,7 @@ function countWords(haiku) {
 		// var currIndex = words.indexOf(currWord);
 		var currIndex = findWord(currWord);
 		if(currIndex > -1) {
-			wordObjects[currIndex].cnt += 1;
+			wordObjects[currIndex].value += 1;
 			wordCounts[currIndex] += 1;
 		} else {
 			wordObjects.push(new Word(currWord));
@@ -149,7 +188,7 @@ function countWords(haiku) {
 		// var currIndex = words.indexOf(currWord);
 		var currIndex = findWord(currWord);
 		if(currIndex > -1) {
-			wordObjects[currIndex].cnt += 1;
+			wordObjects[currIndex].value += 1;
 			wordCounts[currIndex] += 1;
 		} else {
 			wordObjects.push(new Word(currWord));
@@ -159,8 +198,8 @@ function countWords(haiku) {
 	}
 }
 
-function compareCnt(a,b) {
-	return a.cnt - b.cnt;
+function comparevalue(a,b) {
+	return b.value - a.value;
 }
 
 function printAnalysis() {

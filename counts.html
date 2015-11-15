@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<link rel="stylesheet" href="material.min.css">
+	<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.blue_grey-lime.min.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 	<link rel="stylesheet" href="main.css">
 	<script src="material.min.js"></script>
@@ -32,7 +32,11 @@
    </nav>
  </div>
  <main class="mdl-layout__content">
- <div class="mdl-grid analytics">
+ 	<div class="canvas_wrapper">
+ 	<h3> The Haiku Buddies</h3>
+	<canvas id="myChart" width="400" height="400"></canvas>
+	</div>
+ 	<div class="mdl-grid analytics">
 	 	<div id="total-haikus" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
 	 		<h4>Haikus</h4>
 	 	</div>
@@ -45,7 +49,7 @@
 	 	<div id="total-friends" class='analytics-card mdl-cell mdl-cell--3-col mdl-card mdl-shadow--2dp'>
 	 		<h4>Friends</h4>
 	 	</div>
-	 </div>
+	</div>
   </main>
  </div>
 </body>
