@@ -18,7 +18,8 @@ function initialize() {
 
 function populateHaikus() {
 	for(var i = 0; i < haikus.length; i++) {
-		$(".haiku-grid").append("<div class='mdl-cell mdl-card mdl-shadow--2dp'>"
+		if (haikus[i].place.length > 0) {
+			$(".haiku-grid").append("<div class='mdl-cell mdl-card mdl-shadow--2dp'>"
 			+ "<div class='mdl-card__title mdl-card--expand'>"
 			+ "<h3 class='mdl-card__title-text'>" 
 			+ haikus[i].haiku1.join(' ') + "<br>"
@@ -30,6 +31,19 @@ function populateHaikus() {
 	    	+ "</div><div id='haiku-date' class='mdl-card__actions mdl-card--border'>"
 	        + haikus[i].date
 	    	+ "</div></div>");
+		} else {
+			$(".haiku-grid").append("<div class='mdl-cell mdl-card mdl-shadow--2dp'>"
+			+ "<div class='mdl-card__title mdl-card--expand'>"
+			+ "<h3 class='mdl-card__title-text'>" 
+			+ haikus[i].haiku1.join(' ') + "<br>"
+	    	+ haikus[i].haiku2.join(' ') + "<br>"
+	    	+ haikus[i].haiku3.join(' ') + "<br>"
+			+ "</h3></div><div class='mdl-card__supporting-text'>"
+	    	+ "Sally & " + haikus[i].writers.join(' &')
+	    	+ "</div><div id='haiku-date' class='mdl-card__actions mdl-card--border'>"
+	        + haikus[i].date
+	    	+ "</div></div>");
+		}
 		countWords(haikus[i]);
 		countFriends(haikus[i]);
 		countDates(haikus[i]);
@@ -38,7 +52,7 @@ function populateHaikus() {
 	wordObjects.sort(comparevalue);
 	friends.sort(comparevalue);
 	dates.sort(comparevalue);
-	drawChart();
+	// drawChart();
 }
 
 function drawChart() {
@@ -52,7 +66,7 @@ function drawChart() {
     //Number - The width of each segment stroke
     segmentStrokeWidth : 2,
     //Number - The percentage of the chart that we cut out of the middle
-    percentageInnerCutout : 50, // This is 0 for Pie charts
+    percentageInnerCutout : 70, // This is 0 for Pie charts
     //Number - Amount of animation steps
     animationSteps : 100,
     //String - Animation easing effect

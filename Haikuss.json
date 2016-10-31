@@ -1,0 +1,6357 @@
+{ "results": [
+	{
+        "createdAt": "2015-08-23T19:47:13.793Z",
+        "date": "05/18/2014",
+        "haiku1": [
+            "tangled",
+            "shoelaces"
+        ],
+        "haiku2": [
+            "acting",
+            "like",
+            "photons",
+            "waving"
+        ],
+        "haiku3": [
+            "make",
+            "kids",
+            "uncertain"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rPcOpKbKzG"
+        },
+        "objectId": "BDZgT6t2Z4",
+        "place": "",
+        "updatedAt": "2015-08-23T19:47:13.793Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T19:47:28.822Z",
+        "date": "05/18/2014",
+        "haiku1": [
+            "hard",
+            "people",
+            "are",
+            "cute."
+        ],
+        "haiku2": [
+            "to",
+            "taste",
+            "their",
+            "bellies,",
+            "one",
+            "lick"
+        ],
+        "haiku3": [
+            "is",
+            "a",
+            "disgrace,",
+            "eww"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rPcOpKbKzG"
+        },
+        "objectId": "WKT8OCsrP2",
+        "place": "",
+        "updatedAt": "2015-08-23T19:47:28.822Z",
+        "wordCount": 14,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T19:47:41.770Z",
+        "date": "05/18/2014",
+        "haiku1": [
+            "Spring",
+            "hates",
+            "Scientists"
+        ],
+        "haiku2": [
+            "They",
+            "feel",
+            "cold",
+            "tubes",
+            "in",
+            "their",
+            "holes"
+        ],
+        "haiku3": [
+            "I",
+            "blossom",
+            "erect."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rPcOpKbKzG"
+        },
+        "objectId": "YWf1zFTLVl",
+        "place": "",
+        "updatedAt": "2015-08-23T19:47:41.770Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T19:47:57.642Z",
+        "date": "05/18/2014",
+        "haiku1": [
+            "Carter",
+            "speaks",
+            "English"
+        ],
+        "haiku2": [
+            "Rhymes",
+            "with",
+            "forty",
+            "two",
+            "sailfish"
+        ],
+        "haiku3": [
+            "rare",
+            "thoughts",
+            "should",
+            "be",
+            "moist"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rPcOpKbKzG"
+        },
+        "objectId": "xzM31gea8X",
+        "place": "",
+        "updatedAt": "2015-08-23T19:47:57.642Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T19:49:13.317Z",
+        "date": "05/26/2014",
+        "haiku1": [
+            "Walking",
+            "past",
+            "tenses"
+        ],
+        "haiku2": [
+            "tensing",
+            "intensifies",
+            "now"
+        ],
+        "haiku3": [
+            "pigeons",
+            "pass",
+            "future"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "99mhxOuzgt"
+        },
+        "objectId": "QQdeVgyYBQ",
+        "place": "HipCity Veg",
+        "updatedAt": "2015-08-23T19:49:13.317Z",
+        "wordCount": 9,
+        "writers": [
+            "David Fantarella"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T19:49:27.529Z",
+        "date": "05/26/2014",
+        "haiku1": [
+            "Pollen",
+            "inside",
+            "head"
+        ],
+        "haiku2": [
+            "Bee",
+            "signs",
+            "why",
+            "or",
+            "how",
+            "only"
+        ],
+        "haiku3": [
+            "futile",
+            "I",
+            "deny"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "99mhxOuzgt"
+        },
+        "objectId": "fdnlGzcM2k",
+        "place": "HipCity Veg",
+        "updatedAt": "2015-08-23T19:49:27.529Z",
+        "wordCount": 12,
+        "writers": [
+            "David Fantarella"
+        ]
+    },
+    {
+        "createdAt": "2015-08-23T16:06:55.764Z",
+        "date": "12/20/2014",
+        "haiku1": [
+            "Yavuz",
+            "Obsession"
+        ],
+        "haiku2": [
+            "promise",
+            "God",
+            "I'm",
+            "innocent"
+        ],
+        "haiku3": [
+            "now",
+            "design",
+            "of",
+            "twists"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "h4KzonZRb7"
+        },
+        "objectId": "MGaO9OTNA4",
+        "place": "Max Brenner's",
+        "updatedAt": "2015-08-23T16:06:55.764Z",
+        "wordCount": 10,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T16:07:12.720Z",
+        "date": "12/20/2014",
+        "haiku1": [
+            "chocolate",
+            "wonderland"
+        ],
+        "haiku2": [
+            "sacrifice",
+            "concentration"
+        ],
+        "haiku3": [
+            "teenaged",
+            "delicious"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "h4KzonZRb7"
+        },
+        "objectId": "1Mefi0m9JT",
+        "place": "Max Brenner's",
+        "updatedAt": "2015-08-23T16:07:12.720Z",
+        "wordCount": 6,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T16:12:49.631Z",
+        "date": "04/21/2014",
+        "haiku1": [
+            "Stags",
+            "stacked",
+            "on",
+            "crumbling"
+        ],
+        "haiku2": [
+            "trees,",
+            "flames",
+            "from",
+            "hot",
+            "coals,",
+            "Jesus."
+        ],
+        "haiku3": [
+            "crying",
+            "does",
+            "shot",
+            "good."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "r2LUTJdXht"
+        },
+        "objectId": "qe03B0klJS",
+        "place": "",
+        "updatedAt": "2015-08-23T16:12:49.631Z",
+        "wordCount": 14,
+        "writers": [
+            "Jun Xia"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T16:14:57.443Z",
+        "date": "04/21/2014",
+        "haiku1": [
+            "Mimic",
+            "my",
+            "cry,",
+            "boy"
+        ],
+        "haiku2": [
+            "shrill",
+            "voices",
+            "echo",
+            "blood",
+            "glow"
+        ],
+        "haiku3": [
+            "warm",
+            "embrace",
+            "for",
+            "you"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "r2LUTJdXht"
+        },
+        "objectId": "ku0z1sTaGh",
+        "place": "",
+        "updatedAt": "2015-08-23T16:14:57.443Z",
+        "wordCount": 13,
+        "writers": [
+            "Jun Xia"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T16:19:29.095Z",
+        "date": "05/03/2014",
+        "haiku1": [
+            "gelato",
+            "is",
+            "gone"
+        ],
+        "haiku2": [
+            "day",
+            "dreaming",
+            "of",
+            "sexy",
+            "dogs"
+        ],
+        "haiku3": [
+            "Salivating",
+            "lots"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "x4GFckOgJr"
+        },
+        "objectId": "cUof91Tu8C",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T16:19:29.095Z",
+        "wordCount": 10,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T16:19:43.196Z",
+        "date": "05/03/2014",
+        "haiku1": [
+            "caffeine",
+            "injected"
+        ],
+        "haiku2": [
+            "crazy",
+            "bonobos",
+            "sleeping"
+        ],
+        "haiku3": [
+            "weeping",
+            "creeping",
+            "more"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "x4GFckOgJr"
+        },
+        "objectId": "Gk7pKIm6F4",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T16:19:43.196Z",
+        "wordCount": 8,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:35:18.924Z",
+        "date": "05/03/2014",
+        "haiku1": [
+            "moist",
+            "choices",
+            "finding"
+        ],
+        "haiku2": [
+            "holes",
+            "turning",
+            "squeezing",
+            "bouncing"
+        ],
+        "haiku3": [
+            "yum",
+            "bum",
+            "spicy",
+            "cum"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wI9nqumLuh"
+        },
+        "objectId": "xwFL1qhcFG",
+        "place": "Pattaya",
+        "updatedAt": "2015-08-23T19:35:18.924Z",
+        "wordCount": 11,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:35:33.774Z",
+        "date": "05/03/2014",
+        "haiku1": [
+            "crunchy",
+            "monkey",
+            "brains"
+        ],
+        "haiku2": [
+            "hopping",
+            "pulses",
+            "everywhere"
+        ],
+        "haiku3": [
+            "synergy",
+            "creates"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wI9nqumLuh"
+        },
+        "objectId": "rBFZ6eoUx9",
+        "place": "Pattaya",
+        "updatedAt": "2015-08-23T19:35:33.774Z",
+        "wordCount": 8,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:35:50.727Z",
+        "date": "05/03/2014",
+        "haiku1": [
+            "sleek",
+            "black",
+            "beautiful"
+        ],
+        "haiku2": [
+            "elitist",
+            "premiere",
+            "hack",
+            "fun"
+        ],
+        "haiku3": [
+            "fuck",
+            "on",
+            "fire",
+            "smelling"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wI9nqumLuh"
+        },
+        "objectId": "zeqBgHprMC",
+        "place": "Pattaya",
+        "updatedAt": "2015-08-23T19:35:50.727Z",
+        "wordCount": 11,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:36:22.202Z",
+        "date": "05/08/2014",
+        "haiku1": [
+            "If",
+            "today",
+            "was",
+            "blue"
+        ],
+        "haiku2": [
+            "and",
+            "yesterday",
+            "found",
+            "you,",
+            "then"
+        ],
+        "haiku3": [
+            "now",
+            "I",
+            "can",
+            "see",
+            "too"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zwLG0yUWJF"
+        },
+        "objectId": "MVkJNlN60C",
+        "place": "Arch",
+        "updatedAt": "2015-08-23T19:36:22.202Z",
+        "wordCount": 14,
+        "writers": [
+            "Adnaan Mukadam"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:36:41.542Z",
+        "date": "05/08/2014",
+        "haiku1": [
+            "Tiptoe",
+            "through",
+            "the",
+            "flames"
+        ],
+        "haiku2": [
+            "Past",
+            "lovers",
+            "who",
+            "forgot",
+            "that,"
+        ],
+        "haiku3": [
+            "Coffee",
+            "tastes",
+            "bitter"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zwLG0yUWJF"
+        },
+        "objectId": "ffwKNNJT3q",
+        "place": "Arch",
+        "updatedAt": "2015-08-23T19:36:41.542Z",
+        "wordCount": 12,
+        "writers": [
+            "Adnaan Mukadam"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:37:09.833Z",
+        "date": "05/09/2014",
+        "haiku1": [
+            "Know",
+            "your",
+            "best",
+            "weapon"
+        ],
+        "haiku2": [
+            "please",
+            "slaughter",
+            "only",
+            "the",
+            "first"
+        ],
+        "haiku3": [
+            "Rest",
+            "after",
+            "he",
+            "feels."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "upjwqMH7Ex"
+        },
+        "objectId": "2GnJskuGQL",
+        "place": "Chat time",
+        "updatedAt": "2015-08-23T19:37:09.833Z",
+        "wordCount": 13,
+        "writers": [
+            "Terry Sun"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:37:22.892Z",
+        "date": "05/09/2014",
+        "haiku1": [
+            "Fresh",
+            "if",
+            "fifty",
+            "years"
+        ],
+        "haiku2": [
+            "Too",
+            "many",
+            "faces",
+            "for",
+            "flesh"
+        ],
+        "haiku3": [
+            "today",
+            "fishes",
+            "too."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "upjwqMH7Ex"
+        },
+        "objectId": "OaVwbwxDaN",
+        "place": "Chat time",
+        "updatedAt": "2015-08-23T19:37:22.892Z",
+        "wordCount": 12,
+        "writers": [
+            "Terry Sun"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:37:44.629Z",
+        "date": "05/09/2014",
+        "haiku1": [
+            "young",
+            "people",
+            "in",
+            "school"
+        ],
+        "haiku2": [
+            "bathrooms",
+            "are",
+            "sacred",
+            "temples"
+        ],
+        "haiku3": [
+            "you",
+            "cannot",
+            "shit",
+            "here"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Iuoi5t0Z6a"
+        },
+        "objectId": "Q2C2XwPAJV",
+        "place": "Chat time",
+        "updatedAt": "2015-08-23T19:37:44.629Z",
+        "wordCount": 12,
+        "writers": [
+            "Jenny Kang"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:37:58.792Z",
+        "date": "05/09/2014",
+        "haiku1": [
+            "Mysterious",
+            "mouth"
+        ],
+        "haiku2": [
+            "Lips",
+            "like",
+            "a",
+            "parabola"
+        ],
+        "haiku3": [
+            "your",
+            "face",
+            "must",
+            "be",
+            "sore"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Iuoi5t0Z6a"
+        },
+        "objectId": "BsMgBUOjGm",
+        "place": "Chat time",
+        "updatedAt": "2015-08-23T19:37:58.792Z",
+        "wordCount": 11,
+        "writers": [
+            "Jenny Kang"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:38:24.045Z",
+        "date": "05/10/2014",
+        "haiku1": [
+            "Last",
+            "supper",
+            "fleeting"
+        ],
+        "haiku2": [
+            "yum",
+            "is",
+            "fresh",
+            "sushi",
+            "with",
+            "friends"
+        ],
+        "haiku3": [
+            "maybe",
+            "more",
+            "will",
+            "come"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9mxTrvVWxY"
+        },
+        "objectId": "aWAtOvGkN4",
+        "place": "Chat time",
+        "updatedAt": "2015-08-23T19:38:24.045Z",
+        "wordCount": 13,
+        "writers": [
+            "Alice Yang"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:38:51.517Z",
+        "date": "05/11/2014",
+        "haiku1": [
+            "Vertical",
+            "flip",
+            "dough"
+        ],
+        "haiku2": [
+            "pull",
+            "a",
+            "handful",
+            "from",
+            "the",
+            "range"
+        ],
+        "haiku3": [
+            "shoot",
+            "butter",
+            "up",
+            "mom"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9mxTrvVWxY"
+        },
+        "objectId": "jn7nVbCLub",
+        "place": "Penn Bookstore",
+        "updatedAt": "2015-08-23T19:38:51.517Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:39:07.354Z",
+        "date": "05/11/2014",
+        "haiku1": [
+            "Squirt",
+            "life",
+            "into",
+            "me"
+        ],
+        "haiku2": [
+            "Sweet",
+            "blood",
+            "of",
+            "Buddha",
+            "Karma"
+        ],
+        "haiku3": [
+            "Stripping",
+            "human",
+            "goods."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9mxTrvVWxY"
+        },
+        "objectId": "VOQlAZMdE8",
+        "place": "Penn Bookstore",
+        "updatedAt": "2015-08-23T19:39:07.354Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:39:20.993Z",
+        "date": "05/11/2014",
+        "haiku1": [
+            "Bathing",
+            "in",
+            "nearness"
+        ],
+        "haiku2": [
+            "hormones",
+            "teach",
+            "bodies",
+            "pleasure"
+        ],
+        "haiku3": [
+            "Thank",
+            "forces,",
+            "spaces."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9mxTrvVWxY"
+        },
+        "objectId": "tZb4Zp8eu7",
+        "place": "Penn Bookstore",
+        "updatedAt": "2015-08-23T19:39:20.993Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:39:48.970Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Sandy",
+            "windy",
+            "blue"
+        ],
+        "haiku2": [
+            "planets",
+            "dance",
+            "moons",
+            "dive",
+            "suns",
+            "die"
+        ],
+        "haiku3": [
+            "the",
+            "embryo",
+            "too"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Hnx86Z1F91"
+        },
+        "objectId": "IF6gILa5F5",
+        "place": "Joe's Cafe",
+        "updatedAt": "2015-08-23T19:39:48.970Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:40:04.314Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Standard",
+            "socks",
+            "input"
+        ],
+        "haiku2": [
+            "Towels",
+            "parse",
+            "canvas",
+            "into"
+        ],
+        "haiku3": [
+            "flags",
+            "on-load",
+            "twine",
+            "halts."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Hnx86Z1F91"
+        },
+        "objectId": "0HCuyoXnoy",
+        "place": "Joe's Cafe",
+        "updatedAt": "2015-08-23T19:40:04.314Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:40:20.554Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Frizzy",
+            "Grizzly",
+            "Dick"
+        ],
+        "haiku2": [
+            "Quaternion",
+            "rubber",
+            "bands"
+        ],
+        "haiku3": [
+            "Squeeze",
+            "arcballs",
+            "engorged."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Hnx86Z1F91"
+        },
+        "objectId": "b3NgwCauvP",
+        "place": "Joe's Cafe",
+        "updatedAt": "2015-08-23T19:40:20.554Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:40:46.965Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Encrypted",
+            "showers"
+        ],
+        "haiku2": [
+            "Nobody",
+            "has",
+            "the",
+            "truth",
+            "but"
+        ],
+        "haiku3": [
+            "We",
+            "don't",
+            "care",
+            "my",
+            "slave."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "CaBc1YoT5j"
+        },
+        "objectId": "0yoIxTreOW",
+        "place": "New Deck Tavern",
+        "updatedAt": "2015-08-23T19:40:46.965Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:41:03.390Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Leave",
+            "all",
+            "you",
+            "children"
+        ],
+        "haiku2": [
+            "Here",
+            "is",
+            "sacred",
+            "cow",
+            "our",
+            "pet"
+        ],
+        "haiku3": [
+            "Not",
+            "wanting",
+            "bloodshed"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "CaBc1YoT5j"
+        },
+        "objectId": "T13FmEnbgy",
+        "place": "New Deck Tavern",
+        "updatedAt": "2015-08-23T19:41:03.390Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:41:27.305Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Fried",
+            "prince's",
+            "ribcage"
+        ],
+        "haiku2": [
+            "Japan",
+            "stuffed",
+            "kittens",
+            "furballs"
+        ],
+        "haiku3": [
+            "Mourn",
+            "Princess",
+            "Sagwa"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "CaBc1YoT5j"
+        },
+        "objectId": "Dw3BUTf3mp",
+        "place": "New Deck Tavern",
+        "updatedAt": "2015-08-23T19:41:27.305Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:41:39.756Z",
+        "date": "05/12/2014",
+        "haiku1": [
+            "Summer",
+            "emits",
+            "rays"
+        ],
+        "haiku2": [
+            "explosion",
+            "commotion",
+            "done"
+        ],
+        "haiku3": [
+            "Happiness",
+            "dragon"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "CaBc1YoT5j"
+        },
+        "objectId": "os3JBpY3Sd",
+        "place": "New Deck Tavern",
+        "updatedAt": "2015-08-23T19:41:39.756Z",
+        "wordCount": 8,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:42:21.567Z",
+        "date": "05/14/2014",
+        "haiku1": [
+            "Leathery",
+            "Chewy"
+        ],
+        "haiku2": [
+            "chocolate",
+            "bars",
+            "fill",
+            "up",
+            "veins"
+        ],
+        "haiku3": [
+            "arteries",
+            "yum",
+            "men"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5g5Yax0rbU"
+        },
+        "objectId": "Hf7kigUEsY",
+        "place": "",
+        "updatedAt": "2015-08-23T19:42:21.567Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:42:36.557Z",
+        "date": "05/14/2014",
+        "haiku1": [
+            "splatter",
+            "shield",
+            "lights",
+            "off"
+        ],
+        "haiku2": [
+            "mad",
+            "monkey",
+            "glow",
+            "will",
+            "blind",
+            "us"
+        ],
+        "haiku3": [
+            "someone",
+            "exploded"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5g5Yax0rbU"
+        },
+        "objectId": "nR3Wi9dI1N",
+        "place": "",
+        "updatedAt": "2015-08-23T19:42:36.557Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:42:53.576Z",
+        "date": "05/14/2014",
+        "haiku1": [
+            "Spicy",
+            "juices",
+            "show"
+        ],
+        "haiku2": [
+            "Happy",
+            "Koreans",
+            "like",
+            "white"
+        ],
+        "haiku3": [
+            "Milk",
+            "not",
+            "chocolate"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5g5Yax0rbU"
+        },
+        "objectId": "odDWT4rJ1d",
+        "place": "",
+        "updatedAt": "2015-08-23T19:42:53.576Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:43:13.581Z",
+        "date": "05/15/2014",
+        "haiku1": [
+            "Circle",
+            "ends",
+            "flutter"
+        ],
+        "haiku2": [
+            "Forming",
+            "illusions",
+            "of",
+            "bombs"
+        ],
+        "haiku3": [
+            "What",
+            "did",
+            "Carter",
+            "do"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5g5Yax0rbU"
+        },
+        "objectId": "LcLWZefQ66",
+        "place": "",
+        "updatedAt": "2015-08-23T19:43:13.581Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:43:29.693Z",
+        "date": "05/15/2014",
+        "haiku1": [
+            "Map",
+            "Intersections"
+        ],
+        "haiku2": [
+            "Construct",
+            "Internationals"
+        ],
+        "haiku3": [
+            "Spaces",
+            "between",
+            "us"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5g5Yax0rbU"
+        },
+        "objectId": "EpL3lSiiMG",
+        "place": "",
+        "updatedAt": "2015-08-23T19:43:29.693Z",
+        "wordCount": 7,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:46:09.639Z",
+        "date": "05/17/2014",
+        "haiku1": [
+            "cinnamon",
+            "topped",
+            "lace"
+        ],
+        "haiku2": [
+            "fragrant",
+            "mustaches",
+            "of",
+            "beer"
+        ],
+        "haiku3": [
+            "Vignettes",
+            "bounce",
+            "away"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TmJ5C5NlWu"
+        },
+        "objectId": "D0IJQlXwI4",
+        "place": "Elixir",
+        "updatedAt": "2015-08-23T19:46:09.639Z",
+        "wordCount": 10,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:46:22.851Z",
+        "date": "05/17/2014",
+        "haiku1": [
+            "foamy",
+            "soft",
+            "fungus"
+        ],
+        "haiku2": [
+            "flares",
+            "invading",
+            "funky",
+            "smells"
+        ],
+        "haiku3": [
+            "fishes",
+            "flying",
+            "free"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TmJ5C5NlWu"
+        },
+        "objectId": "TOZCbNGXAt",
+        "place": "Elixir",
+        "updatedAt": "2015-08-23T19:46:22.851Z",
+        "wordCount": 10,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:47:00.088Z",
+        "date": "05/18/2014",
+        "haiku1": [
+            "backbone",
+            "drained",
+            "from",
+            "shock"
+        ],
+        "haiku2": [
+            "ruptured",
+            "iron",
+            "fist",
+            "hangs",
+            "low"
+        ],
+        "haiku3": [
+            "good",
+            "bye",
+            "broken",
+            "gown"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rPcOpKbKzG"
+        },
+        "objectId": "jY08NdqbzF",
+        "place": "",
+        "updatedAt": "2015-08-23T19:47:00.088Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:52:54.694Z",
+        "date": "05/30/2014",
+        "haiku1": [
+            "Capogiro",
+            "gone"
+        ],
+        "haiku2": [
+            "Summer",
+            "devours",
+            "spring",
+            "fling"
+        ],
+        "haiku3": [
+            "serene",
+            "death",
+            "withers"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "uLOorsKLqw"
+        },
+        "objectId": "rRV0U6AZbI",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T19:52:54.694Z",
+        "wordCount": 9,
+        "writers": [
+            "Scott Collins"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:53:09.412Z",
+        "date": "05/30/2014",
+        "haiku1": [
+            "Standing",
+            "akimbo"
+        ],
+        "haiku2": [
+            "on",
+            "yonder",
+            "stool",
+            "gazing",
+            "not"
+        ],
+        "haiku3": [
+            "fearlessly",
+            "inside"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "uLOorsKLqw"
+        },
+        "objectId": "zLwvplbLdf",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T19:53:09.412Z",
+        "wordCount": 9,
+        "writers": [
+            "Scott Collins"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:53:34.988Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "Sliding",
+            "down",
+            "the",
+            "leg"
+        ],
+        "haiku2": [
+            "blood",
+            "stains",
+            "panties",
+            "pregnancy"
+        ],
+        "haiku3": [
+            "avoided,",
+            "thank",
+            "God."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JXQ91NQE7x"
+        },
+        "objectId": "rb9yuIuZTv",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T19:53:34.988Z",
+        "wordCount": 11,
+        "writers": [
+            "Ethan Shou"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:53:49.994Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "dreadlocks",
+            "on",
+            "tangle"
+        ],
+        "haiku2": [
+            "Asians",
+            "tango",
+            "with",
+            "dangle"
+        ],
+        "haiku3": [
+            "Scalps",
+            "cut",
+            "at",
+            "angle"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JXQ91NQE7x"
+        },
+        "objectId": "yN8A9EgwJ2",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T19:53:49.994Z",
+        "wordCount": 11,
+        "writers": [
+            "Ethan Shou"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:54:04.529Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "flowers",
+            "withering"
+        ],
+        "haiku2": [
+            "refrigerated",
+            "beauty"
+        ],
+        "haiku3": [
+            "I",
+            "lament",
+            "your",
+            "face."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JXQ91NQE7x"
+        },
+        "objectId": "8bO9LojA3b",
+        "place": "Capogiro",
+        "updatedAt": "2015-08-23T19:54:04.529Z",
+        "wordCount": 8,
+        "writers": [
+            "Ethan Shou"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:54:43.399Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "Oh",
+            "my",
+            "butt",
+            "cheeks",
+            "that"
+        ],
+        "haiku2": [
+            "he",
+            "slammed",
+            "with",
+            "great",
+            "butter",
+            "now"
+        ],
+        "haiku3": [
+            "is",
+            "time",
+            "to",
+            "bake",
+            "buns."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "aotsfWFflZ"
+        },
+        "objectId": "wN9WPMgPvO",
+        "place": "Kilimandjaro Restaurant",
+        "updatedAt": "2015-08-23T19:54:43.399Z",
+        "wordCount": 16,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:54:56.427Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "Apple",
+            "wires",
+            "people"
+        ],
+        "haiku2": [
+            "Who",
+            "innovate",
+            "to",
+            "please",
+            "Thor"
+        ],
+        "haiku3": [
+            "Striking",
+            "mobs",
+            "with",
+            "cash"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "aotsfWFflZ"
+        },
+        "objectId": "L1GJyRuVFK",
+        "place": "Kilimandjaro Restaurant",
+        "updatedAt": "2015-08-23T19:54:56.427Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:55:16.643Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "Oily",
+            "balls",
+            "swallowed"
+        ],
+        "haiku2": [
+            "Her",
+            "mom",
+            "cannot",
+            "digest",
+            "it"
+        ],
+        "haiku3": [
+            "Time",
+            "for",
+            "extra",
+            "meat"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "aotsfWFflZ"
+        },
+        "objectId": "WjCPsPyA4A",
+        "place": "Kilimandjaro Restaurant",
+        "updatedAt": "2015-08-23T19:55:16.643Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:55:32.959Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "paint",
+            "rainbows",
+            "on",
+            "guns"
+        ],
+        "haiku2": [
+            "show",
+            "them",
+            "you",
+            "like",
+            "squirting",
+            "guts"
+        ],
+        "haiku3": [
+            "for",
+            "the",
+            "pretty",
+            "studs"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "aotsfWFflZ"
+        },
+        "objectId": "33UBhv5vJz",
+        "place": "Kilimandjaro Restaurant",
+        "updatedAt": "2015-08-23T19:55:32.959Z",
+        "wordCount": 14,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:55:51.841Z",
+        "date": "05/31/2014",
+        "haiku1": [
+            "green",
+            "light",
+            "gravity"
+        ],
+        "haiku2": [
+            "make",
+            "this",
+            "lime",
+            "around",
+            "lemons"
+        ],
+        "haiku3": [
+            "blow",
+            "the",
+            "dust",
+            "last",
+            "man."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "aotsfWFflZ"
+        },
+        "objectId": "uQyKsXtyEE",
+        "place": "Kilimandjaro Restaurant",
+        "updatedAt": "2015-08-23T19:55:51.841Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:56:18.142Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Thorough",
+            "businessman"
+        ],
+        "haiku2": [
+            "Go",
+            "back",
+            "to",
+            "your",
+            "favorite",
+            "hole"
+        ],
+        "haiku3": [
+            "Never",
+            "work",
+            "alone."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "XIlxCbm9Zi"
+        },
+        "objectId": "OXTcqWO2dA",
+        "place": "",
+        "updatedAt": "2015-08-23T19:56:18.142Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:56:37.374Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Lick",
+            "my",
+            "shocking",
+            "bulb."
+        ],
+        "haiku2": [
+            "How",
+            "light",
+            "is",
+            "the",
+            "urge",
+            "to",
+            "try."
+        ],
+        "haiku3": [
+            "Paralyze",
+            "this",
+            "pulse."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "XIlxCbm9Zi"
+        },
+        "objectId": "8nB3AU4tVN",
+        "place": "",
+        "updatedAt": "2015-08-23T19:56:37.374Z",
+        "wordCount": 14,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:57:27.545Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Burden",
+            "lifted",
+            "now"
+        ],
+        "haiku2": [
+            "Look",
+            "like",
+            "a",
+            "cherry",
+            "bomb",
+            "love"
+        ],
+        "haiku3": [
+            "Like",
+            "you",
+            "suffer",
+            "less"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4nNFOoJNcl"
+        },
+        "objectId": "WyOWDkOpAo",
+        "place": "Kaffa Crossing",
+        "updatedAt": "2015-08-23T19:57:27.545Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:57:50.359Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Seasoned",
+            "travels"
+        ],
+        "haiku2": [
+            "Search",
+            "every",
+            "bakery"
+        ],
+        "haiku3": [
+            "Sad",
+            "fate",
+            "before",
+            "meals"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4nNFOoJNcl"
+        },
+        "objectId": "F8Yl3vmpmK",
+        "place": "Kaffa Crossing",
+        "updatedAt": "2015-08-23T19:57:50.359Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:58:04.673Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Take",
+            "advantage",
+            "first"
+        ],
+        "haiku2": [
+            "Nobody",
+            "always",
+            "forgets"
+        ],
+        "haiku3": [
+            "I",
+            "remembered",
+            "us."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4nNFOoJNcl"
+        },
+        "objectId": "cx2DZvJXQK",
+        "place": "Kaffa Crossing",
+        "updatedAt": "2015-08-23T19:58:04.673Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:58:16.740Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Empty",
+            "coffins",
+            "burned"
+        ],
+        "haiku2": [
+            "We",
+            "homeless",
+            "fear",
+            "the",
+            "living"
+        ],
+        "haiku3": [
+            "Somebody",
+            "they",
+            "will",
+            "help"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4nNFOoJNcl"
+        },
+        "objectId": "ixRAaQBRul",
+        "place": "Kaffa Crossing",
+        "updatedAt": "2015-08-23T19:58:16.740Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:58:33.171Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "People",
+            "dancing",
+            "drunk,"
+        ],
+        "haiku2": [
+            "Time",
+            "for",
+            "flying",
+            "pigs",
+            "squealing"
+        ],
+        "haiku3": [
+            "While",
+            "gravity's",
+            "off"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4nNFOoJNcl"
+        },
+        "objectId": "ABvjRjavN6",
+        "place": "Kaffa Crossing",
+        "updatedAt": "2015-08-23T19:58:33.171Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:59:23.612Z",
+        "date": "06/07/2014",
+        "haiku1": [
+            "Brown",
+            "banana",
+            "good"
+        ],
+        "haiku2": [
+            "bring",
+            "true",
+            "sweetness",
+            "from",
+            "heaven"
+        ],
+        "haiku3": [
+            "gooey",
+            "kids",
+            "sling",
+            "poop"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9bymutkUNS"
+        },
+        "objectId": "V0VCGbs9yA",
+        "place": "",
+        "updatedAt": "2015-08-23T20:01:36.742Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T19:59:55.940Z",
+        "date": "06/08/2014",
+        "haiku1": [
+            "Headaches",
+            "kill",
+            "thinking"
+        ],
+        "haiku2": [
+            "Take",
+            "more",
+            "drugs,",
+            "drink",
+            "some",
+            "cocktail"
+        ],
+        "haiku3": [
+            "you",
+            "deserve",
+            "to",
+            "feel"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "9bymutkUNS"
+        },
+        "objectId": "gvv2OaACfx",
+        "place": "Hamilton Court",
+        "updatedAt": "2015-08-23T19:59:55.940Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman",
+            " Jun Xia"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:00:20.988Z",
+        "date": "06/10/2014",
+        "haiku1": [
+            "Bloody",
+            "piece",
+            "of",
+            "poop"
+        ],
+        "haiku2": [
+            "What",
+            "animal",
+            "dares",
+            "to",
+            "try"
+        ],
+        "haiku3": [
+            "Wearing",
+            "salmon",
+            "guts"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rbqL6uX4fQ"
+        },
+        "objectId": "Cvxd1FGpM0",
+        "place": "UTown",
+        "updatedAt": "2015-08-23T20:01:25.014Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman",
+            " Scott Collins"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:00:33.243Z",
+        "date": "06/10/2014",
+        "haiku1": [
+            "Ebony",
+            "and",
+            "guilt"
+        ],
+        "haiku2": [
+            "White",
+            "chocolate",
+            "question",
+            "cat"
+        ],
+        "haiku3": [
+            "Will",
+            "forgive",
+            "Hitler"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rbqL6uX4fQ"
+        },
+        "objectId": "frC1swIq20",
+        "place": "UTown",
+        "updatedAt": "2015-08-23T20:01:10.155Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            " Scott Collins"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:00:45.608Z",
+        "date": "06/10/2014",
+        "haiku1": [
+            "Environmental"
+        ],
+        "haiku2": [
+            "Diarrhea",
+            "Blasphemy."
+        ],
+        "haiku3": [
+            "Refrigerated."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "rbqL6uX4fQ"
+        },
+        "objectId": "WpXPszizB4",
+        "place": "UTown",
+        "updatedAt": "2015-08-23T20:01:03.252Z",
+        "wordCount": 4,
+        "writers": [
+            "Carter Tilghman",
+            " Scott Collins"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:08:20.276Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Kalina",
+            "is",
+            "back"
+        ],
+        "haiku2": [
+            "from",
+            "the",
+            "past.",
+            "She",
+            "remembered"
+        ],
+        "haiku3": [
+            "to",
+            "demoralize."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "IfD65xa3QM"
+        },
+        "objectId": "WbnakB6RPW",
+        "place": "Farmacy",
+        "updatedAt": "2015-08-23T20:08:20.276Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            " Diana Gomez",
+            " Kalina Slavkova"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:08:35.774Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Stars",
+            "spell",
+            "prostitutes"
+        ],
+        "haiku2": [
+            "payday",
+            "is",
+            "time",
+            "wasted",
+            "sex"
+        ],
+        "haiku3": [
+            "Saddens",
+            "virgin",
+            "nights"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "IfD65xa3QM"
+        },
+        "objectId": "HkJzhgmDQ7",
+        "place": "Farmacy",
+        "updatedAt": "2015-08-23T20:08:35.774Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            " Diana Gomez",
+            " Kalina Slavkova"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:08:55.599Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Buttered",
+            "knives",
+            "do",
+            "not"
+        ],
+        "haiku2": [
+            "make",
+            "good",
+            "pills",
+            "assassins",
+            "can"
+        ],
+        "haiku3": [
+            "overdose",
+            "on",
+            "spice"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "IfD65xa3QM"
+        },
+        "objectId": "L1id7LGILD",
+        "place": "Farmacy",
+        "updatedAt": "2015-08-23T20:08:55.599Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman",
+            " Diana Gomez",
+            " Kalina Slavkova"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:09:18.756Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Lemon",
+            "wedge,",
+            "I",
+            "beg"
+        ],
+        "haiku2": [
+            "Dogs",
+            "hide",
+            "away",
+            "scurvy",
+            "dreams."
+        ],
+        "haiku3": [
+            "One",
+            "ring",
+            "to",
+            "wake",
+            "up."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "IfD65xa3QM"
+        },
+        "objectId": "qin8IqzDtk",
+        "place": "Farmacy",
+        "updatedAt": "2015-08-23T20:09:18.756Z",
+        "wordCount": 14,
+        "writers": [
+            "Carter Tilghman",
+            " Diana Gomez",
+            " Kalina Slavkova"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:09:36.982Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Thrust",
+            "pepper",
+            "for",
+            "my"
+        ],
+        "haiku2": [
+            "Baby",
+            "demon",
+            "tackles",
+            "the"
+        ],
+        "haiku3": [
+            "Cruel",
+            "parents",
+            "for",
+            "crime"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "B0nWCDkkbP"
+        },
+        "objectId": "pOtGVhgbVf",
+        "place": "Farmacy",
+        "updatedAt": "2015-08-23T20:09:36.982Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman",
+            " Diana Gomez",
+            " Kalina Slavkova"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:10:05.650Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Peachy",
+            "chest",
+            "squeeze,",
+            "more,"
+        ],
+        "haiku2": [
+            "Slap",
+            "flour",
+            "over",
+            "buttocks",
+            "crisp"
+        ],
+        "haiku3": [
+            "Full-contact",
+            "cupcakes"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "B0nWCDkkbP"
+        },
+        "objectId": "LodVGYyZnG",
+        "place": "Saxby's",
+        "updatedAt": "2015-08-23T20:10:05.650Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:10:18.880Z",
+        "date": "06/13/2014",
+        "haiku1": [
+            "Noisy",
+            "cars",
+            "rapping"
+        ],
+        "haiku2": [
+            "in",
+            "parks",
+            "full",
+            "of",
+            "pretty",
+            "bikes"
+        ],
+        "haiku3": [
+            "Asking",
+            "for",
+            "riders"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "B0nWCDkkbP"
+        },
+        "objectId": "iOUFQmiBTG",
+        "place": "Saxby's",
+        "updatedAt": "2015-08-23T20:10:18.880Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:12:29.657Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "River",
+            "flows",
+            "from",
+            "ears"
+        ],
+        "haiku2": [
+            "Without",
+            "headphones",
+            "humming",
+            "streams"
+        ],
+        "haiku3": [
+            "Solar",
+            "powered",
+            "sound"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "S5nq1TfAx7"
+        },
+        "objectId": "jECqRlNSmV",
+        "place": "Clark Park",
+        "updatedAt": "2015-08-23T20:12:29.657Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:12:48.475Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Branches",
+            "fall",
+            "towards"
+        ],
+        "haiku2": [
+            "blades",
+            "of",
+            "wild",
+            "Samurai.",
+            "Like"
+        ],
+        "haiku3": [
+            "Gojira",
+            "they",
+            "prey"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "S5nq1TfAx7"
+        },
+        "objectId": "1tWyK6gFIy",
+        "place": "Clark Park",
+        "updatedAt": "2015-08-23T20:12:48.475Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:13:02.562Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Starry",
+            "morning",
+            "in"
+        ],
+        "haiku2": [
+            "summer",
+            "misses",
+            "all",
+            "pain",
+            "from"
+        ],
+        "haiku3": [
+            "lonely",
+            "nights",
+            "with",
+            "books"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "S5nq1TfAx7"
+        },
+        "objectId": "Qd2ajWSbi7",
+        "place": "Clark Park",
+        "updatedAt": "2015-08-23T20:13:02.562Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:13:20.806Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Lemonade",
+            "snow",
+            "sweet"
+        ],
+        "haiku2": [
+            "but",
+            "in",
+            "her",
+            "father's",
+            "narrow"
+        ],
+        "haiku3": [
+            "mind",
+            "a",
+            "whisper",
+            "harsh"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "S5nq1TfAx7"
+        },
+        "objectId": "P9TdbZSHr8",
+        "place": "Clark Park",
+        "updatedAt": "2015-08-23T20:13:20.806Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:13:33.883Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Philadelphia"
+        ],
+        "haiku2": [
+            "is",
+            "mean",
+            "to",
+            "puppies",
+            "who",
+            "ate"
+        ],
+        "haiku3": [
+            "single",
+            "Chinese",
+            "vets"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "S5nq1TfAx7"
+        },
+        "objectId": "5fRnQciFMd",
+        "place": "Clark Park",
+        "updatedAt": "2015-08-23T20:13:33.883Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:14:30.925Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Refrigerator"
+        ],
+        "haiku2": [
+            "lollipop",
+            "dog",
+            "drinks",
+            "cocktails"
+        ],
+        "haiku3": [
+            "under",
+            "table",
+            "top."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5uU1AYXGVp"
+        },
+        "objectId": "F6h5Z3gBft",
+        "place": "Cake and the Beanstalk",
+        "updatedAt": "2015-08-23T20:14:30.925Z",
+        "wordCount": 8,
+        "writers": [
+            "Carter Tilghman",
+            " Gaby Moreno",
+            " Sean Lilley"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:14:49.011Z",
+        "date": "06/14/2014",
+        "haiku1": [
+            "Blue",
+            "bearded",
+            "bunnies"
+        ],
+        "haiku2": [
+            "escape",
+            "quickly",
+            "hospital"
+        ],
+        "haiku3": [
+            "interns",
+            "shriek",
+            "quiet."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5uU1AYXGVp"
+        },
+        "objectId": "UCy3qyd2y1",
+        "place": "Cake and the Beanstalk",
+        "updatedAt": "2015-08-23T20:14:49.011Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman",
+            " Gaby Moreno",
+            " Sean Lilley"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:16:10.922Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "Ephemeral",
+            "bug"
+        ],
+        "haiku2": [
+            "Flying",
+            "into",
+            "his",
+            "dreams,",
+            "deems"
+        ],
+        "haiku3": [
+            "bloated",
+            "light",
+            "true",
+            "star."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "mAVD6FIWab"
+        },
+        "objectId": "CjHB3jYB9b",
+        "place": "Saigon",
+        "updatedAt": "2015-08-23T20:16:10.922Z",
+        "wordCount": 11,
+        "writers": [
+            "Jun Xia",
+            " Justin Macintosh",
+            " Alain Hernandex",
+            " Andrew Winston",
+            " Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:16:33.261Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "Spooky",
+            "blight",
+            "speaks",
+            "lies"
+        ],
+        "haiku2": [
+            "Only",
+            "pharaoh",
+            "hears",
+            "fears.",
+            "I",
+            ""
+        ],
+        "haiku3": [
+            "hypothesize",
+            "fate"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "mAVD6FIWab"
+        },
+        "objectId": "FR08oay4xU",
+        "place": "Saigon",
+        "updatedAt": "2015-08-23T20:16:33.261Z",
+        "wordCount": 12,
+        "writers": [
+            "Jun Xia",
+            " Justin Macintosh",
+            " Alain Hernandex",
+            " Andrew Winston",
+            " Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:16:52.968Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "Doom",
+            "gloom",
+            "sleep",
+            "and",
+            "soon"
+        ],
+        "haiku2": [
+            "monsoon",
+            "bathroom",
+            "flushes",
+            "boom"
+        ],
+        "haiku3": [
+            "awaits",
+            "good",
+            "runes,",
+            "Dune"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "mAVD6FIWab"
+        },
+        "objectId": "70e9ZorUb1",
+        "place": "Saigon",
+        "updatedAt": "2015-08-23T20:16:52.968Z",
+        "wordCount": 13,
+        "writers": [
+            "Jun Xia",
+            " Justin Macintosh",
+            " Alain Hernandex",
+            " Andrew Winston",
+            " Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:17:28.230Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "RIDICULOUS",
+            "SEX"
+        ],
+        "haiku2": [
+            "PLEASES",
+            "OLD",
+            "COCKRAOCHES.",
+            "THIS"
+        ],
+        "haiku3": [
+            "IS",
+            "MY",
+            "FAPPING",
+            "SOURCE"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "mAVD6FIWab"
+        },
+        "objectId": "qfWnWMHOx7",
+        "place": "Saigon",
+        "updatedAt": "2015-08-23T20:17:28.230Z",
+        "wordCount": 10,
+        "writers": [
+            "Jun Xia",
+            " Justin Macintosh",
+            " Alain Hernandex",
+            " Andrew Winston",
+            " Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:24:46.020Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "FISHY",
+            "SMELL",
+            "IN",
+            "CAR"
+        ],
+        "haiku2": [
+            "WE",
+            "APOLOGIZE",
+            "TRITON"
+        ],
+        "haiku3": [
+            "BUT",
+            "SHE",
+            "WANTED",
+            "MORE"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "FYJ9elCCtn"
+        },
+        "objectId": "DihDM5J64w",
+        "place": "",
+        "updatedAt": "2015-08-23T20:24:46.020Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            " Alain Hernandez"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:25:11.389Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "AGAIN",
+            "SHE",
+            "posts",
+            "my"
+        ],
+        "haiku2": [
+            "picture",
+            "from",
+            "God's",
+            "browser,",
+            "Chrome"
+        ],
+        "haiku3": [
+            "shuts",
+            "malware",
+            "with",
+            "hate."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "FYJ9elCCtn"
+        },
+        "objectId": "U1LpZQJRZF",
+        "place": "",
+        "updatedAt": "2015-08-23T20:25:11.389Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman",
+            " Alain Hernandez"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:25:25.940Z",
+        "date": "06/26/2014",
+        "haiku1": [
+            "Ethnic",
+            "fire",
+            "virgin"
+        ],
+        "haiku2": [
+            "Sucks",
+            "the",
+            "head",
+            "off",
+            "thrusting",
+            "balls"
+        ],
+        "haiku3": [
+            "Toward",
+            "tongue's",
+            "passion"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "FYJ9elCCtn"
+        },
+        "objectId": "0vrW2nlCDH",
+        "place": "",
+        "updatedAt": "2015-08-23T20:25:25.940Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman",
+            " Alain Hernandez"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:25:57.564Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "Tea",
+            "burns",
+            "your",
+            "fingers"
+        ],
+        "haiku2": [
+            "Red",
+            "juices",
+            "flow",
+            "from",
+            "your",
+            "mouth"
+        ],
+        "haiku3": [
+            "Now",
+            "I'm",
+            "delighted"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "ezC9kOo7gg",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:25:57.564Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:26:12.306Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "Never",
+            "boil",
+            "two",
+            "eggs"
+        ],
+        "haiku2": [
+            "Kumquats",
+            "react",
+            "to",
+            "silence"
+        ],
+        "haiku3": [
+            "Scrambled",
+            "humbled",
+            "fruits"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "mPZL980B2H",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:26:12.306Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:26:26.169Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "Nutrition",
+            "matters"
+        ],
+        "haiku2": [
+            "Only",
+            "plastic",
+            "surgery"
+        ],
+        "haiku3": [
+            "cedes",
+            "triumphant",
+            "smiles"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "556fqevLzv",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:26:26.169Z",
+        "wordCount": 8,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:26:39.458Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "breezy",
+            "easy",
+            "winds"
+        ],
+        "haiku2": [
+            "beggars",
+            "roaming",
+            "around",
+            "clouds"
+        ],
+        "haiku3": [
+            "God",
+            "controls",
+            "highness"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "b06NOJ7sPJ",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:26:39.458Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:26:54.699Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "blue",
+            "jeans",
+            "tumbling",
+            "song"
+        ],
+        "haiku2": [
+            "sorrow",
+            "smothering",
+            "signals"
+        ],
+        "haiku3": [
+            "for",
+            "tomorrow's",
+            "sail"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "eyNh4ejm84",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:26:54.699Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:27:16.280Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "DIP",
+            "DRIP",
+            "SMUDGED",
+            "BRUSHSTROKES"
+        ],
+        "haiku2": [
+            "CHINESE",
+            "PREDICTION",
+            "LOST",
+            "SIGHT"
+        ],
+        "haiku3": [
+            "DAMN",
+            "BIRDS",
+            "BARBECUED"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "sytTi5rIsd",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:27:16.280Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:27:36.466Z",
+        "date": "07/03/2014",
+        "haiku1": [
+            "PARADING",
+            "VIRGINS"
+        ],
+        "haiku2": [
+            "ESCAPED",
+            "FROM",
+            "POSSESSIVE",
+            "THRUSTS"
+        ],
+        "haiku3": [
+            "TODAY",
+            "WE",
+            "REJOICE"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dijxalGVtx"
+        },
+        "objectId": "D02wy2x4Ba",
+        "place": "Teado",
+        "updatedAt": "2015-08-23T20:27:36.466Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman",
+            " Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:28:05.037Z",
+        "date": "07/05/2014",
+        "haiku1": [
+            "SPARKLING",
+            "SHARDS",
+            "PIERCING"
+        ],
+        "haiku2": [
+            "OLD",
+            "DREAMS",
+            "OF",
+            "HOPE.",
+            "TRANSFORMING"
+        ],
+        "haiku3": [
+            "VISIONS",
+            "OF",
+            "GLITTER"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "vJksEaoJiW"
+        },
+        "objectId": "deFb7rqCnU",
+        "place": "Penn's Landing",
+        "updatedAt": "2015-08-23T20:28:05.037Z",
+        "wordCount": 11,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:28:17.551Z",
+        "date": "07/05/2014",
+        "haiku1": [
+            "voices",
+            "resounding"
+        ],
+        "haiku2": [
+            "broken",
+            "whispers",
+            "of",
+            "today"
+        ],
+        "haiku3": [
+            "only",
+            "I",
+            "survived"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "vJksEaoJiW"
+        },
+        "objectId": "zr5YrWktLG",
+        "place": "Penn's Landing",
+        "updatedAt": "2015-08-23T20:28:17.551Z",
+        "wordCount": 9,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:28:33.710Z",
+        "date": "07/05/2014",
+        "haiku1": [
+            "Final",
+            "opponent"
+        ],
+        "haiku2": [
+            "three-hundred",
+            "heads",
+            "below",
+            "you"
+        ],
+        "haiku3": [
+            "Rise",
+            "souffle",
+            "swiftly"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "vJksEaoJiW"
+        },
+        "objectId": "zNlJtNULaj",
+        "place": "Penn's Landing",
+        "updatedAt": "2015-08-23T20:28:33.710Z",
+        "wordCount": 9,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:28:56.495Z",
+        "date": "07/05/2014",
+        "haiku1": [
+            "Right",
+            "before",
+            "he",
+            "left,"
+        ],
+        "haiku2": [
+            "a",
+            "drop",
+            "of",
+            "saltwater",
+            "fell"
+        ],
+        "haiku3": [
+            "through",
+            "daddy's",
+            "embrace"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "vJksEaoJiW"
+        },
+        "objectId": "wHBTXnJd1m",
+        "place": "Penn's Landing",
+        "updatedAt": "2015-08-23T20:28:56.495Z",
+        "wordCount": 12,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:29:21.822Z",
+        "date": "07/06/2014",
+        "haiku1": [
+            "dear",
+            "letters",
+            "from",
+            "light"
+        ],
+        "haiku2": [
+            "blessing",
+            "vain",
+            "artists",
+            "with",
+            "death"
+        ],
+        "haiku3": [
+            "please",
+            "women's",
+            "wishes"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wfPUH5vT46"
+        },
+        "objectId": "vQBMFm56JP",
+        "place": "Philadelphia's Magic Garden",
+        "updatedAt": "2015-08-23T20:29:21.822Z",
+        "wordCount": 12,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:29:43.178Z",
+        "date": "07/06/2014",
+        "haiku1": [
+            "Reflections",
+            "always"
+        ],
+        "haiku2": [
+            "lie.",
+            "Rarely",
+            "do",
+            "they",
+            "create,"
+        ],
+        "haiku3": [
+            "reciprocate",
+            "tales."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wfPUH5vT46"
+        },
+        "objectId": "QMSjcSJVGI",
+        "place": "Philadelphia's Magic Garden",
+        "updatedAt": "2015-08-23T20:29:43.178Z",
+        "wordCount": 9,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:29:57.976Z",
+        "date": "07/06/2014",
+        "haiku1": [
+            "ESKEW",
+            "EYEBROWS",
+            "SHOCK"
+        ],
+        "haiku2": [
+            "CATERPILLARS",
+            "BASKING",
+            "MOCK"
+        ],
+        "haiku3": [
+            "ACIDIC",
+            "TRIPS",
+            "ROCK"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "wfPUH5vT46"
+        },
+        "objectId": "Plv904O1xT",
+        "place": "Philadelphia's Magic Garden",
+        "updatedAt": "2015-08-23T20:29:57.976Z",
+        "wordCount": 9,
+        "writers": [
+            "Paige Urbano"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:30:45.596Z",
+        "date": "07/11/2014",
+        "haiku1": [
+            "Cement",
+            "forms",
+            "statues"
+        ],
+        "haiku2": [
+            "Gum",
+            "often",
+            "will",
+            "make",
+            "you",
+            "stick"
+        ],
+        "haiku3": [
+            "To",
+            "pretentious",
+            "lips"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "HrFOCVxEPm"
+        },
+        "objectId": "MIDTlwkb6Y",
+        "place": "Franklin Fountain",
+        "updatedAt": "2015-08-23T20:30:45.596Z",
+        "wordCount": 12,
+        "writers": [
+            "Jun Xia",
+            " Carter Tilghman",
+            " Spencer Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:37:24.521Z",
+        "date": "07/18/2014",
+        "haiku1": [
+            "Pavement",
+            "chasers",
+            "are"
+        ],
+        "haiku2": [
+            "stumbling",
+            "drunk",
+            "on",
+            "cheap",
+            "lost",
+            "time."
+        ],
+        "haiku3": [
+            "Forever",
+            "chasing"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "5BcSzFOSA4"
+        },
+        "objectId": "aiOEGaMDC3",
+        "place": "Pattaya",
+        "updatedAt": "2015-08-23T20:37:24.521Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            " Jenny Kang"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:37:50.420Z",
+        "date": "07/27/2014",
+        "haiku1": [
+            "King",
+            "Oedipus,",
+            "help"
+        ],
+        "haiku2": [
+            "Mommy",
+            "has",
+            "thirty-two",
+            "pills"
+        ],
+        "haiku3": [
+            "All",
+            "to",
+            "cut",
+            "your",
+            "heels"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "uuR3t3VvGU"
+        },
+        "objectId": "JisSkbT1w0",
+        "place": "Viva Espresso",
+        "updatedAt": "2015-08-23T20:37:50.420Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:38:04.468Z",
+        "date": "07/27/2014",
+        "haiku1": [
+            "Paper",
+            "butterflies"
+        ],
+        "haiku2": [
+            "Japanese",
+            "lioness",
+            "mane"
+        ],
+        "haiku3": [
+            "Strip",
+            "my",
+            "painted",
+            "slave"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "uuR3t3VvGU"
+        },
+        "objectId": "CH6yohIMRd",
+        "place": "Viva Espresso",
+        "updatedAt": "2015-08-23T20:38:04.468Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:38:32.976Z",
+        "date": "07/27/2014",
+        "haiku1": [
+            "Layers",
+            "of",
+            "Spencer"
+        ],
+        "haiku2": [
+            "Peeled",
+            "for",
+            "everyone",
+            "ow"
+        ],
+        "haiku3": [
+            "Merciful",
+            "hand,",
+            "share."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "Zrc6FYcHXS"
+        },
+        "objectId": "oIIxfVD55l",
+        "place": "Carter's Home",
+        "updatedAt": "2015-08-23T20:38:32.976Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            " Matthew Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:43:08.307Z",
+        "date": "07/28/2014",
+        "haiku1": [
+            "Disturbing",
+            "starfish"
+        ],
+        "haiku2": [
+            "Eyes",
+            "like",
+            "Google",
+            "image",
+            "search"
+        ],
+        "haiku3": [
+            "In",
+            "drones",
+            "while",
+            "waiting"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "QCFHNg1Wxx"
+        },
+        "objectId": "MImeM6Mom5",
+        "place": "Vientiane Cafe",
+        "updatedAt": "2015-08-23T20:43:08.307Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:43:21.612Z",
+        "date": "07/28/2014",
+        "haiku1": [
+            "forever",
+            "black",
+            "eyed"
+        ],
+        "haiku2": [
+            "We",
+            "taste",
+            "pennies",
+            "from",
+            "punches"
+        ],
+        "haiku3": [
+            "millionaire",
+            "dog",
+            "lies"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "QCFHNg1Wxx"
+        },
+        "objectId": "1zPS4JHuL2",
+        "place": "Vientiane Cafe",
+        "updatedAt": "2015-08-23T20:43:21.612Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:43:40.132Z",
+        "date": "07/28/2014",
+        "haiku1": [
+            "Dazzle",
+            "advisers"
+        ],
+        "haiku2": [
+            "make",
+            "dropouts",
+            "sing",
+            "of",
+            "your",
+            "grace"
+        ],
+        "haiku3": [
+            "Taste",
+            "fate,",
+            "graduate"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "QCFHNg1Wxx"
+        },
+        "objectId": "34VlG9clq5",
+        "place": "Vientiane Cafe",
+        "updatedAt": "2015-08-23T20:43:40.132Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:43:54.412Z",
+        "date": "07/28/2014",
+        "haiku1": [
+            "Spoonful",
+            "of",
+            "pepper"
+        ],
+        "haiku2": [
+            "in",
+            "grandpa's",
+            "coffee",
+            "machine"
+        ],
+        "haiku3": [
+            "real",
+            "men",
+            "hate",
+            "ground",
+            "beans"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "QCFHNg1Wxx"
+        },
+        "objectId": "BWDd9KhWWA",
+        "place": "Vientiane Cafe",
+        "updatedAt": "2015-08-23T20:43:54.412Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:44:21.750Z",
+        "date": "07/29/2014",
+        "haiku1": [
+            "Smokey",
+            "eyeshadow"
+        ],
+        "haiku2": [
+            "Morning",
+            "after",
+            "big",
+            "boobies"
+        ],
+        "haiku3": [
+            "Clutching",
+            "black",
+            "coffee"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "R9JPjbNpid"
+        },
+        "objectId": "QZ7rFeNrqc",
+        "place": "Lovers and Madmen",
+        "updatedAt": "2015-08-23T20:44:21.750Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:46:36.833Z",
+        "date": "07/29/2014",
+        "haiku1": [
+            "icy",
+            "science",
+            "lab"
+        ],
+        "haiku2": [
+            "shattered",
+            "spigots",
+            "analyze"
+        ],
+        "haiku3": [
+            "innocent",
+            "virus"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "R9JPjbNpid"
+        },
+        "objectId": "KzRyTaMtwF",
+        "place": "Lovers and Madmen",
+        "updatedAt": "2015-08-23T20:46:36.833Z",
+        "wordCount": 8,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:46:49.038Z",
+        "date": "07/29/2014",
+        "haiku1": [
+            "Hidden",
+            "under",
+            "clouds"
+        ],
+        "haiku2": [
+            "Lies",
+            "we",
+            "believe",
+            "faithfully"
+        ],
+        "haiku3": [
+            "Retaliate",
+            "first"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "R9JPjbNpid"
+        },
+        "objectId": "S1IPGFPAV5",
+        "place": "Lovers and Madmen",
+        "updatedAt": "2015-08-23T20:46:49.038Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:47:27.680Z",
+        "date": "08/02/2014",
+        "haiku1": [
+            "Slow",
+            "flowing",
+            "syrup"
+        ],
+        "haiku2": [
+            "red",
+            "balloons",
+            "filled",
+            "hospitals"
+        ],
+        "haiku3": [
+            "morgues,",
+            "envy",
+            "children"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dT0BYkPzxK"
+        },
+        "objectId": "3pBg57xtfk",
+        "place": "Sangkee",
+        "updatedAt": "2015-08-23T20:47:27.680Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            "Spencer Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:47:41.513Z",
+        "date": "08/02/2014",
+        "haiku1": [
+            "Roasted",
+            "testicles"
+        ],
+        "haiku2": [
+            "seasoned",
+            "for",
+            "pho;",
+            "my",
+            "scrotum"
+        ],
+        "haiku3": [
+            "squirts",
+            "tasteful",
+            "cowards"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dT0BYkPzxK"
+        },
+        "objectId": "jJ3FbNrYAU",
+        "place": "Sangkee",
+        "updatedAt": "2015-08-23T20:47:41.513Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman",
+            "Spencer Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:47:52.625Z",
+        "date": "08/02/2014",
+        "haiku1": [
+            "I",
+            "murder",
+            "camels"
+        ],
+        "haiku2": [
+            "sip",
+            "sandy",
+            "mirage",
+            "my",
+            "Lord"
+        ],
+        "haiku3": [
+            "riddles",
+            "engorge",
+            "skulls"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "dT0BYkPzxK"
+        },
+        "objectId": "y2HyA55ndt",
+        "place": "Sangkee",
+        "updatedAt": "2015-08-23T20:47:52.625Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman",
+            "Spencer Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:48:14.561Z",
+        "date": "08/04/2014",
+        "haiku1": [
+            "Light-weight",
+            "iguana"
+        ],
+        "haiku2": [
+            "champion",
+            "of",
+            "skin",
+            "walkers"
+        ],
+        "haiku3": [
+            "embrace",
+            "death",
+            "with",
+            "scales"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "VVoGzl1ou3"
+        },
+        "objectId": "RKJIk9ctrH",
+        "place": "Saxby's",
+        "updatedAt": "2015-08-23T20:48:14.561Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:48:25.707Z",
+        "date": "08/04/2014",
+        "haiku1": [
+            "cactus",
+            "of",
+            "chef",
+            "Pan"
+        ],
+        "haiku2": [
+            "blooming",
+            "leaves",
+            "ugly",
+            "canyon"
+        ],
+        "haiku3": [
+            "tenderness",
+            "awaits"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "VVoGzl1ou3"
+        },
+        "objectId": "ZhZfDdvVPE",
+        "place": "Saxby's",
+        "updatedAt": "2015-08-23T20:48:25.707Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:48:35.871Z",
+        "date": "08/04/2014",
+        "haiku1": [
+            "bearded",
+            "monster",
+            "tale"
+        ],
+        "haiku2": [
+            "God's",
+            "aborted",
+            "love",
+            "in",
+            "you"
+        ],
+        "haiku3": [
+            "braided",
+            "vagina"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "VVoGzl1ou3"
+        },
+        "objectId": "Ra5mRE7jJA",
+        "place": "Saxby's",
+        "updatedAt": "2015-08-23T20:48:35.871Z",
+        "wordCount": 10,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:49:12.021Z",
+        "date": "08/07/2014",
+        "haiku1": [
+            "코끼리",
+            "코는"
+        ],
+        "haiku2": [
+            "마미의",
+            "손같다네"
+        ],
+        "haiku3": [
+            "영원한",
+            "파워"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "AdhrXdv07K"
+        },
+        "objectId": "WLXWi3jqIZ",
+        "place": "집",
+        "updatedAt": "2015-08-23T20:49:12.021Z",
+        "wordCount": 6,
+        "writers": [
+            "마미"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:49:20.815Z",
+        "date": "08/07/2014",
+        "haiku1": [
+            "이야기",
+            "하자"
+        ],
+        "haiku2": [
+            "오랫동안",
+            "맘놓고"
+        ],
+        "haiku3": [
+            "이맘다해",
+            "콜!"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "AdhrXdv07K"
+        },
+        "objectId": "75WmaxYz40",
+        "place": "집",
+        "updatedAt": "2015-08-23T20:49:20.815Z",
+        "wordCount": 6,
+        "writers": [
+            "마미"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:49:47.049Z",
+        "date": "08/08/2014",
+        "haiku1": [
+            "Home",
+            "alone",
+            "for",
+            "lunch"
+        ],
+        "haiku2": [
+            "Pizza",
+            "never",
+            "comes",
+            "alive"
+        ],
+        "haiku3": [
+            "Scary",
+            "but",
+            "I",
+            "might"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "HiD3bJ5ft6"
+        },
+        "objectId": "NzPriuo8w0",
+        "place": "Big Plate",
+        "updatedAt": "2015-08-23T20:49:47.049Z",
+        "wordCount": 12,
+        "writers": [
+            "Mico Moulic"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:50:10.483Z",
+        "date": "08/08/2014",
+        "haiku1": [
+            "flying",
+            "pis",
+            "god"
+        ],
+        "haiku2": [
+            "worship",
+            "makes",
+            "faithful",
+            "dessert"
+        ],
+        "haiku3": [
+            "Bonbons",
+            "orgasm"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "HiD3bJ5ft6"
+        },
+        "objectId": "m8MrGr1lzj",
+        "place": "Coco Bruni",
+        "updatedAt": "2015-08-23T20:50:10.483Z",
+        "wordCount": 9,
+        "writers": [
+            "Mico Moulic"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:50:25.686Z",
+        "date": "08/08/2014",
+        "haiku1": [
+            "Couple",
+            "in",
+            "water"
+        ],
+        "haiku2": [
+            "public,",
+            "sexy,",
+            "delicious"
+        ],
+        "haiku3": [
+            "childish",
+            "innocence"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "HiD3bJ5ft6"
+        },
+        "objectId": "GMHCdv6rD8",
+        "place": "Coco Bruni",
+        "updatedAt": "2015-08-23T20:50:25.686Z",
+        "wordCount": 8,
+        "writers": [
+            "Mico Moulic"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:51:05.722Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "맹견",
+            "나콩순"
+        ],
+        "haiku2": [
+            "너",
+            "안보이는거야?"
+        ],
+        "haiku3": [
+            "싫겠다",
+            "그지!"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "PnLHF1eW3C",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:51:05.722Z",
+        "wordCount": 6,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:51:18.305Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "카터",
+            "엉덩이"
+        ],
+        "haiku2": [
+            "느껴봤니",
+            "베이비?"
+        ],
+        "haiku3": [
+            "좋았겠다",
+            "참"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "tVnclgOhMX",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:51:18.305Z",
+        "wordCount": 6,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:51:47.230Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "연쇄",
+            "살인범"
+        ],
+        "haiku2": [
+            "돈",
+            "부적합해.",
+            "미안"
+        ],
+        "haiku3": [
+            "이런말",
+            "해서."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "lHMYWYAQhi",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:51:47.230Z",
+        "wordCount": 7,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:52:12.715Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "물속의",
+            "기준"
+        ],
+        "haiku2": [
+            "관상용",
+            "쇼윈도우"
+        ],
+        "haiku3": [
+            "후식은",
+            "포기"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "j67SCg9tiG",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:52:12.715Z",
+        "wordCount": 6,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:52:27.873Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "의리없는",
+            "놈"
+        ],
+        "haiku2": [
+            "욕심많은",
+            "세상사."
+        ],
+        "haiku3": [
+            "사과",
+            "그것뿐!"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "80dZrNI1D8",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:52:27.873Z",
+        "wordCount": 6,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:52:40.927Z",
+        "date": "08/10/2014",
+        "haiku1": [
+            "너구리",
+            "가족"
+        ],
+        "haiku2": [
+            "공기중",
+            "만든이는?"
+        ],
+        "haiku3": [
+            "나은선",
+            "본인"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "JNZ7SfKYTg"
+        },
+        "objectId": "9YgFP3LAjS",
+        "place": "Maison de Yuji",
+        "updatedAt": "2015-08-23T20:52:40.927Z",
+        "wordCount": 6,
+        "writers": [
+            "희"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:55:34.736Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Beefy",
+            "breakfast",
+            "love"
+        ],
+        "haiku2": [
+            "Never",
+            "permitted",
+            "nor",
+            "lost"
+        ],
+        "haiku3": [
+            "Japanese",
+            "strippers"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "Uf0NrDlIMk",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:55:34.736Z",
+        "wordCount": 9,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:55:45.853Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Cinnamon",
+            "liquid"
+        ],
+        "haiku2": [
+            "Prescription",
+            "by",
+            "Buddha's",
+            "beer"
+        ],
+        "haiku3": [
+            "Synergy",
+            "for",
+            "blood"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "cpixckJOe0",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:55:45.853Z",
+        "wordCount": 9,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:55:55.722Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Banana",
+            "princess"
+        ],
+        "haiku2": [
+            "Mimicking",
+            "orangutans"
+        ],
+        "haiku3": [
+            "Enchanted",
+            "rebirth"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "IVCZkaJtLJ",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:55:55.722Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:56:12.691Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Kinky",
+            "food",
+            "trucks",
+            "rush"
+        ],
+        "haiku2": [
+            "Like",
+            "drunk",
+            "toddlers",
+            "breathe",
+            "bondage"
+        ],
+        "haiku3": [
+            "Muffled",
+            "joy",
+            "and",
+            "milk"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "0A348vqYL3",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:56:12.691Z",
+        "wordCount": 13,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:56:23.767Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Roses",
+            "from",
+            "your",
+            "mum"
+        ],
+        "haiku2": [
+            "Turning",
+            "into",
+            "pods",
+            "of",
+            "seashells"
+        ],
+        "haiku3": [
+            "Empty",
+            "pages",
+            "none"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "ixEK3idmT1",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:56:23.767Z",
+        "wordCount": 12,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:56:37.216Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Creamy",
+            "fur",
+            "of",
+            "Zeus"
+        ],
+        "haiku2": [
+            "Dauntless",
+            "licks",
+            "dripping",
+            "babies"
+        ],
+        "haiku3": [
+            "Moaning",
+            "creates",
+            "more"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "Lq9EOqI5i2",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:56:37.216Z",
+        "wordCount": 11,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:56:55.725Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Ecstacy",
+            "buddy",
+            "dance"
+        ],
+        "haiku2": [
+            "Prance",
+            "through",
+            "light's",
+            "turmoil",
+            "rappers"
+        ],
+        "haiku3": [
+            "Floating",
+            "mixes",
+            "fail"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "p1I3Q9YKGe"
+        },
+        "objectId": "Ifntdanu7A",
+        "place": "Hurdy Gurdy",
+        "updatedAt": "2015-08-23T20:56:55.725Z",
+        "wordCount": 11,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:57:22.136Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Angels",
+            "don't",
+            "believe"
+        ],
+        "haiku2": [
+            "Infatuation",
+            "fostered"
+        ],
+        "haiku3": [
+            "Real",
+            "infinity"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "C3JspyYBVQ",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:57:22.136Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:57:34.517Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Spiral",
+            "fascinates"
+        ],
+        "haiku2": [
+            "Lonely",
+            "abyss",
+            "designers"
+        ],
+        "haiku3": [
+            "Destroy",
+            "linear",
+            "law"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "W2yTYxnCgW",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:57:34.517Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:57:49.698Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Forever",
+            "after"
+        ],
+        "haiku2": [
+            "Two-headed",
+            "lovers",
+            "forgive"
+        ],
+        "haiku3": [
+            "Unresolved",
+            "receipts"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "uVjbkflrrL",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:57:49.698Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:58:02.192Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Dwelling",
+            "place",
+            "of",
+            "mice"
+        ],
+        "haiku2": [
+            "Gnaw",
+            "legs",
+            "and",
+            "traps",
+            "that",
+            "stand",
+            "front"
+        ],
+        "haiku3": [
+            "Only",
+            "hindrance,",
+            "God"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "8jvguwTIz0",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:58:02.192Z",
+        "wordCount": 14,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:58:15.723Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Innocence",
+            "doodles"
+        ],
+        "haiku2": [
+            "Works",
+            "that",
+            "stimulate",
+            "hormones"
+        ],
+        "haiku3": [
+            "Sensual",
+            "spaces"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "f9W2PpZLYd",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:58:15.723Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:58:43.162Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Bunnies",
+            "devour",
+            "us"
+        ],
+        "haiku2": [
+            "Amylase",
+            "endured",
+            "union"
+        ],
+        "haiku3": [
+            "Fortified",
+            "thrusts,",
+            "busts"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "MzjEaNrOYt",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:58:43.162Z",
+        "wordCount": 9,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T20:58:56.318Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "Martyred",
+            "heroine"
+        ],
+        "haiku2": [
+            "Addicted",
+            "to",
+            "reflections"
+        ],
+        "haiku3": [
+            "Craving",
+            "inner",
+            "peace"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WFJPZeuqCO"
+        },
+        "objectId": "7g7LlKRQyW",
+        "place": "Coffee Gallery",
+        "updatedAt": "2015-08-23T20:58:56.318Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:09:59.099Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "RELATIONSHIP",
+            "GAME"
+        ],
+        "haiku2": [
+            "CONUNDRUM",
+            "STIR-FRIED",
+            "MESS",
+            "WINS"
+        ],
+        "haiku3": [
+            "SELDOM",
+            "SAFE",
+            "NOR",
+            "SOUND"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "17JWS7wvXO",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:09:59.099Z",
+        "wordCount": 10,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:10:20.398Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "MEMORY",
+            "FROM",
+            "HIM"
+        ],
+        "haiku2": [
+            "SOFT",
+            "TRAIL",
+            "SMOTHERING",
+            "SENSES"
+        ],
+        "haiku3": [
+            "SPRINGTIME",
+            "REMEDY"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "UtTFcYpg1n",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:10:20.398Z",
+        "wordCount": 9,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:10:33.788Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "ALCOHOLIC",
+            "MOON"
+        ],
+        "haiku2": [
+            "DELUSIONAL",
+            "SENSATION"
+        ],
+        "haiku3": [
+            "KATSUDON",
+            "RULES",
+            "BLUES"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "brQQmQsXzj",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:10:33.788Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:10:48.004Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "REJECTION",
+            "LETTER"
+        ],
+        "haiku2": [
+            "SQUABBLE",
+            "BUBBLES",
+            "TENSION",
+            "CRIES"
+        ],
+        "haiku3": [
+            "TORTURE",
+            "LACKS",
+            "FEELING"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "xnW8G6To4z",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:10:48.004Z",
+        "wordCount": 9,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:10:59.144Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "DAFFODILS",
+            "FLAWLESS"
+        ],
+        "haiku2": [
+            "LIKE",
+            "ETHEREAL",
+            "LAUGHTERS"
+        ],
+        "haiku3": [
+            "ESCALATE",
+            "HEAVENS"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "kLK87gWrTM",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:10:59.144Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:11:26.366Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "PASSIVE",
+            "AGGRESSIVE"
+        ],
+        "haiku2": [
+            "FRUSTRATION",
+            "DICTATION",
+            "SHOCK"
+        ],
+        "haiku3": [
+            "LEMONS",
+            "DEMONS",
+            "COOK"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "EyUDq5sX2w",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:11:26.366Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:11:46.104Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "WARTORTLE",
+            "VIBRATES"
+        ],
+        "haiku2": [
+            "DELIGHTFUL",
+            "PET",
+            "SUMMON",
+            "SEX"
+        ],
+        "haiku3": [
+            "GYRATING",
+            "JUICES"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "ocw96Kf6Ix",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:11:46.104Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:12:02.721Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "COUNSELOR",
+            "CARTER"
+        ],
+        "haiku2": [
+            "GIVE",
+            "LESSONS",
+            "ON",
+            "HACKING",
+            "KONG"
+        ],
+        "haiku3": [
+            "YOU",
+            "KNOW",
+            "THE",
+            "MOOMOO"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "zS87uJ3ir7"
+        },
+        "objectId": "RnCCommZf2",
+        "place": "사이타마",
+        "updatedAt": "2015-08-23T21:12:02.721Z",
+        "wordCount": 11,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:12:36.216Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "처음",
+            "만난",
+            "날"
+        ],
+        "haiku2": [
+            "밥만",
+            "먹고",
+            "헤어져"
+        ],
+        "haiku3": [
+            "새처럼",
+            "높이"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "wdaODXjblC",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:12:36.216Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:12:50.074Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "꽁치같은",
+            "말"
+        ],
+        "haiku2": [
+            "뼈많고",
+            "아름다운"
+        ],
+        "haiku3": [
+            "바싹구운",
+            "맛"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "TfEgoIlicG",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:12:50.074Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:13:02.952Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "톱니바퀴랑"
+        ],
+        "haiku2": [
+            "놀고싶은",
+            "강아지"
+        ],
+        "haiku3": [
+            "시간을",
+            "먹다."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "ihHt1LAZcH",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:13:02.952Z",
+        "wordCount": 5,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:13:13.149Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "달콤한",
+            "배털"
+        ],
+        "haiku2": [
+            "음미하는",
+            "애벌레"
+        ],
+        "haiku3": [
+            "천천히",
+            "변태"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "Wcn22UNNvn",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:13:13.149Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:13:26.330Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "너",
+            "말고",
+            "딸기"
+        ],
+        "haiku2": [
+            "수줍은",
+            "움직임도"
+        ],
+        "haiku3": [
+            "산뜻하구나!"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "TzZoH2wSgL",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:13:26.330Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:13:40.595Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "네모",
+            "세모는"
+        ],
+        "haiku2": [
+            "집",
+            "구상",
+            "추상적인"
+        ],
+        "haiku3": [
+            "유치원생",
+            "맘"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "tmkHNBEQI0",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:13:40.595Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:13:54.091Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "한번더",
+            "외쳐"
+        ],
+        "haiku2": [
+            "피카츄",
+            "백만볼트"
+        ],
+        "haiku3": [
+            "짜릿한",
+            "이밤"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "bhlrncM7lk",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:13:54.091Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:14:11.271Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "얼음",
+            "살포시"
+        ],
+        "haiku2": [
+            "녹아드는",
+            "너의",
+            "혀"
+        ],
+        "haiku3": [
+            "온몸",
+            "시린",
+            "중"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "kl8KZ9xv3W",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:14:11.271Z",
+        "wordCount": 8,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:14:25.325Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "낭만",
+            "고양이"
+        ],
+        "haiku2": [
+            "바라만",
+            "보는",
+            "너는"
+        ],
+        "haiku3": [
+            "순수함의",
+            "상징"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "yw4MnHgx2o",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:14:25.325Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:14:43.797Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "가슴",
+            "한",
+            "복판"
+        ],
+        "haiku2": [
+            "눌러앉은",
+            "스프링"
+        ],
+        "haiku3": [
+            "예측불허다"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "meSBfHtEeY",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:14:43.797Z",
+        "wordCount": 6,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:15:05.716Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "초코렛",
+            "우유"
+        ],
+        "haiku2": [
+            "비밀스런",
+            "맛",
+            "흡입"
+        ],
+        "haiku3": [
+            "온통",
+            "내꺼야"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "Ocisssm3Fw",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:15:05.716Z",
+        "wordCount": 7,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:15:24.744Z",
+        "date": "08/11/2014",
+        "haiku1": [
+            "조심스럽게"
+        ],
+        "haiku2": [
+            "속삭여",
+            "\"내가",
+            "잘해\""
+        ],
+        "haiku3": [
+            "마지막까지"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "GF9nZOz4De"
+        },
+        "objectId": "kJJmyXAeTS",
+        "place": "카페베네",
+        "updatedAt": "2015-08-23T21:15:24.744Z",
+        "wordCount": 5,
+        "writers": [
+            "Caroline Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:15:46.583Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "오늘도",
+            "샐리"
+        ],
+        "haiku2": [
+            "내일은",
+            "애기돼지"
+        ],
+        "haiku3": [
+            "진화하는",
+            "뇬"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "hT287mDH1y"
+        },
+        "objectId": "bmxhwdZvL6",
+        "place": "집",
+        "updatedAt": "2015-08-23T21:15:46.583Z",
+        "wordCount": 6,
+        "writers": [
+            "마미"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:16:38.149Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "준비된",
+            "면접"
+        ],
+        "haiku2": [
+            "쥬니어네이버",
+            "갑"
+        ],
+        "haiku3": [
+            "개나리",
+            "나비"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "7hrSyeaaQB",
+        "place": "",
+        "updatedAt": "2015-08-23T21:21:56.984Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:17:11.559Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "심심한",
+            "배게"
+        ],
+        "haiku2": [
+            "땀많은",
+            "이자카야"
+        ],
+        "haiku3": [
+            "숙취용",
+            "빙수"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "ScnH1OVhKq",
+        "place": "",
+        "updatedAt": "2015-08-23T21:17:11.559Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:19:58.844Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "군대간후",
+            "너"
+        ],
+        "haiku2": [
+            "항상",
+            "기다려줄까"
+        ],
+        "haiku3": [
+            "끝",
+            "다시보자"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "T8zl9rKUvr",
+        "place": "",
+        "updatedAt": "2015-08-23T21:19:58.844Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:20:10.041Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "파프리카",
+            "촉"
+        ],
+        "haiku2": [
+            "야금야금",
+            "애벌래"
+        ],
+        "haiku3": [
+            "힐링",
+            "필요해"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "Vs5r1lI4VN",
+        "place": "",
+        "updatedAt": "2015-08-23T21:20:10.041Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:20:23.671Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "버건디",
+            "속옷"
+        ],
+        "haiku2": [
+            "침대위에",
+            "수녀님"
+        ],
+        "haiku3": [
+            "교황님",
+            "상상"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "R5Oyo4ei3E",
+        "place": "",
+        "updatedAt": "2015-08-23T21:20:23.671Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:20:35.224Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "티라미수",
+            "술"
+        ],
+        "haiku2": [
+            "촉촉하지만",
+            "소주"
+        ],
+        "haiku3": [
+            "처음처런",
+            "짠!"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "lnuLLXQ9OS",
+        "place": "",
+        "updatedAt": "2015-08-23T21:20:35.224Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:20:50.895Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "비상계단",
+            "위"
+        ],
+        "haiku2": [
+            "옥상에서",
+            "푸르다"
+        ],
+        "haiku3": [
+            "청춘",
+            "끝이네"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "mj8tzcH9Sn",
+        "place": "",
+        "updatedAt": "2015-08-23T21:20:50.895Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:21:02.937Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "소오름",
+            "돗는"
+        ],
+        "haiku2": [
+            "문틈사이",
+            "그림자"
+        ],
+        "haiku3": [
+            "다가온다.",
+            "봄"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "UtpSNIRim8",
+        "place": "",
+        "updatedAt": "2015-08-23T21:21:02.937Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:21:19.582Z",
+        "date": "08/12/2014",
+        "haiku1": [
+            "기찻길",
+            "산책"
+        ],
+        "haiku2": [
+            "훨훨날다",
+            "하늘로"
+        ],
+        "haiku3": [
+            "폭발적",
+            "향기"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "kavD1VfczM"
+        },
+        "objectId": "4MSunBgiLM",
+        "place": "",
+        "updatedAt": "2015-08-23T21:21:19.582Z",
+        "wordCount": 6,
+        "writers": [
+            "Jinah Kim"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:21:44.980Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "재밌는",
+            "영화"
+        ],
+        "haiku2": [
+            "살인범",
+            "찾아내기"
+        ],
+        "haiku3": [
+            "거울속",
+            "인물"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "idhrBVsVvx",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:22:02.489Z",
+        "wordCount": 6,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:22:39.678Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "바보같은",
+            "말"
+        ],
+        "haiku2": [
+            "왠지",
+            "그냥",
+            "삼겹살"
+        ],
+        "haiku3": [
+            "오늘도",
+            "과식"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "v0WAggOi8T",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:22:39.678Z",
+        "wordCount": 7,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:22:48.569Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "또",
+            "사라진다"
+        ],
+        "haiku2": [
+            "어둠속으로",
+            "퐁당"
+        ],
+        "haiku3": [
+            "안녕",
+            "배터리"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "XlTHsivQfm",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:22:48.569Z",
+        "wordCount": 6,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:23:05.161Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "여름",
+            "초딩들"
+        ],
+        "haiku2": [
+            "한대",
+            "맞고",
+            "일어나"
+        ],
+        "haiku3": [
+            "화려한",
+            "복수"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "u0JtpnXsjN",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:23:05.161Z",
+        "wordCount": 7,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:23:17.633Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "지하철",
+            "안에"
+        ],
+        "haiku2": [
+            "떨고있는",
+            "내",
+            "다리"
+        ],
+        "haiku3": [
+            "양아치",
+            "무셔"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "GdSnasN3Yw",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:23:17.633Z",
+        "wordCount": 7,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:23:35.754Z",
+        "date": "08/17/2014",
+        "haiku1": [
+            "매년",
+            "똑같은"
+        ],
+        "haiku2": [
+            "졸업식",
+            "그대모습"
+        ],
+        "haiku3": [
+            "그래도",
+            "눈물"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "TPY7qbE0ST"
+        },
+        "objectId": "p8Q1mWkzZm",
+        "place": "지하철",
+        "updatedAt": "2015-08-23T21:23:35.754Z",
+        "wordCount": 6,
+        "writers": [
+            "정승연"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:24:29.748Z",
+        "date": "08/23/2014",
+        "haiku1": [
+            "last",
+            "night",
+            "everyone"
+        ],
+        "haiku2": [
+            "wasn't",
+            "licking",
+            "my",
+            "huge",
+            "egg"
+        ],
+        "haiku3": [
+            "oh",
+            "shit",
+            "bursts",
+            "of",
+            "joy"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "30It05GZfb"
+        },
+        "objectId": "h0jzJ4tM5e",
+        "place": "EH1 Lounge",
+        "updatedAt": "2015-08-23T21:24:29.748Z",
+        "wordCount": 13,
+        "writers": [
+            "Kai Ninomiya",
+            "Terry Sun",
+            " Dean Wilhelmi",
+            "Woo Byun"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:24:49.388Z",
+        "date": "08/23/2014",
+        "haiku1": [
+            "sometimes",
+            "you",
+            "dance",
+            "low"
+        ],
+        "haiku2": [
+            "in",
+            "afro",
+            "stands",
+            "tall,",
+            "burning"
+        ],
+        "haiku3": [
+            "neo-classic",
+            "now"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "30It05GZfb"
+        },
+        "objectId": "UPOIqnmsvQ",
+        "place": "EH1 Lounge",
+        "updatedAt": "2015-08-23T21:24:49.388Z",
+        "wordCount": 11,
+        "writers": [
+            "Terry Sun"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:25:15.033Z",
+        "date": "08/26/2014",
+        "haiku1": [
+            "Wish",
+            "he",
+            "survived",
+            "me"
+        ],
+        "haiku2": [
+            "My",
+            "salty",
+            "pillar",
+            "rises."
+        ],
+        "haiku3": [
+            "Never",
+            "forgive",
+            "God."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "30It05GZfb"
+        },
+        "objectId": "olVlETfzAn",
+        "place": "Shoemaker Green",
+        "updatedAt": "2015-08-23T21:25:15.033Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:28:58.427Z",
+        "date": "08/26/2014",
+        "haiku1": [
+            "V-neck",
+            "cleavage",
+            "shot"
+        ],
+        "haiku2": [
+            "Pity",
+            "she",
+            "was",
+            "taken",
+            "far"
+        ],
+        "haiku3": [
+            "Angels",
+            "to",
+            "jack",
+            "from"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "30It05GZfb"
+        },
+        "objectId": "MQgkC5Weyr",
+        "place": "Shoemaker Green",
+        "updatedAt": "2015-08-23T21:28:58.427Z",
+        "wordCount": 12,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:29:53.658Z",
+        "date": "11/28/2014",
+        "haiku1": [
+            "Once",
+            "taken,",
+            "always"
+        ],
+        "haiku2": [
+            "Penetrate",
+            "ferociously."
+        ],
+        "haiku3": [
+            "Plums",
+            "cannot",
+            "succumb."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "XGnjfKfp4E"
+        },
+        "objectId": "2boJZee51h",
+        "place": "",
+        "updatedAt": "2015-08-23T21:29:53.658Z",
+        "wordCount": 8,
+        "writers": [
+            "Adnaan Mukadam"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:30:09.312Z",
+        "date": "11/28/2014",
+        "haiku1": [
+            "Symmetry",
+            "never"
+        ],
+        "haiku2": [
+            "Gives",
+            "noise.",
+            "Intertwining",
+            "voice"
+        ],
+        "haiku3": [
+            "Rises",
+            "fluidless"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "WMSXwgvvEg"
+        },
+        "objectId": "FFkHep3a5u",
+        "place": "",
+        "updatedAt": "2015-08-23T21:30:09.312Z",
+        "wordCount": 8,
+        "writers": [
+            "Adnaan Mukadam"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:30:45.721Z",
+        "date": "12/04/2014",
+        "haiku1": [
+            "Moonshine",
+            "refracted,"
+        ],
+        "haiku2": [
+            "Autumn,",
+            "cathedral",
+            "distills"
+        ],
+        "haiku3": [
+            "Space,",
+            "and",
+            "breezes",
+            "stay"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "8ZAvZE0r6H"
+        },
+        "objectId": "Rldrs68RZy",
+        "place": "",
+        "updatedAt": "2015-08-23T21:30:45.721Z",
+        "wordCount": 9,
+        "writers": [
+            "Karthik Sethuraman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:31:06.958Z",
+        "date": "12/05/2014",
+        "haiku1": [
+            "Mega",
+            "fire",
+            "shots"
+        ],
+        "haiku2": [
+            "Friday",
+            "is",
+            "back",
+            "let's",
+            "get",
+            "down."
+        ],
+        "haiku3": [
+            "Like",
+            "life",
+            "changing",
+            "sex"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "AP5nlP2PeU"
+        },
+        "objectId": "rPUeVrMlq0",
+        "place": "",
+        "updatedAt": "2015-08-23T21:31:06.958Z",
+        "wordCount": 13,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:31:24.437Z",
+        "date": "12/05/2014",
+        "haiku1": [
+            "Messy",
+            "arrangement"
+        ],
+        "haiku2": [
+            "Lettuce",
+            "screams",
+            "mommy",
+            "at",
+            "me"
+        ],
+        "haiku3": [
+            "Cucumber",
+            "dildos"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "AP5nlP2PeU"
+        },
+        "objectId": "M5vE9Z811h",
+        "place": "",
+        "updatedAt": "2015-08-23T21:31:24.437Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:31:37.470Z",
+        "date": "12/05/2014",
+        "haiku1": [
+            "Mushroom",
+            "circle",
+            "tomb"
+        ],
+        "haiku2": [
+            "where",
+            "sprints",
+            "hide",
+            "infections"
+        ],
+        "haiku3": [
+            "Take",
+            "antlers",
+            "give",
+            "drugs"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "AP5nlP2PeU"
+        },
+        "objectId": "CT28IZFs8q",
+        "place": "",
+        "updatedAt": "2015-08-23T21:31:37.470Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:32:38.680Z",
+        "date": "12/14/2014",
+        "haiku1": [
+            "Alloys",
+            "for",
+            "Warships"
+        ],
+        "haiku2": [
+            "Pirate",
+            "Bay",
+            "uses",
+            "hardness"
+        ],
+        "haiku3": [
+            "To",
+            "save",
+            "server",
+            "space"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "UuiLF1iqVY"
+        },
+        "objectId": "8DrSF9dcQl",
+        "place": "Doc Mogrogan's",
+        "updatedAt": "2015-08-23T21:32:38.680Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:32:54.833Z",
+        "date": "12/14/2014",
+        "haiku1": [
+            "MUSSEL",
+            "BEVERAGE"
+        ],
+        "haiku2": [
+            "SULY",
+            "STUDENTS",
+            "AND",
+            "DEAD",
+            "CHRIST"
+        ],
+        "haiku3": [
+            "SING,",
+            "CHUCKLE,",
+            "DRINK",
+            "PISS"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "UuiLF1iqVY"
+        },
+        "objectId": "6xtE8XIcpI",
+        "place": "Doc Mogrogan's",
+        "updatedAt": "2015-08-23T21:32:54.833Z",
+        "wordCount": 11,
+        "writers": [
+            "Carter Tilghman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:33:18.482Z",
+        "date": "12/20/2014",
+        "haiku1": [
+            "post-finals",
+            "fun",
+            "night"
+        ],
+        "haiku2": [
+            "she",
+            "likes",
+            "breaking",
+            "most",
+            "dances"
+        ],
+        "haiku3": [
+            "hurrying",
+            "real",
+            "loudly"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "znuB2RHlJl"
+        },
+        "objectId": "RyZJd3np9j",
+        "place": "Max Brenner's",
+        "updatedAt": "2015-08-23T21:33:18.482Z",
+        "wordCount": 11,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:33:42.521Z",
+        "date": "12/20/2014",
+        "haiku1": [
+            "bizarre",
+            "theories",
+            "search"
+        ],
+        "haiku2": [
+            "shake",
+            "gleefully",
+            "my",
+            "assholes"
+        ],
+        "haiku3": [
+            "frozen",
+            "clocks",
+            "chirp",
+            "more"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "znuB2RHlJl"
+        },
+        "objectId": "6shuGXi8Yr",
+        "place": "Max Brenner's",
+        "updatedAt": "2015-08-23T21:33:42.521Z",
+        "wordCount": 11,
+        "writers": [
+            "Amy Le"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:36:17.744Z",
+        "date": "05/23/2015",
+        "haiku1": [
+            "Stacks",
+            "of",
+            "cash",
+            "floating"
+        ],
+        "haiku2": [
+            "Never",
+            "forget",
+            "the",
+            "madness"
+        ],
+        "haiku3": [
+            "Memory",
+            "Forgone"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "4geQ1GUIt3"
+        },
+        "objectId": "ZEdVoPpNgq",
+        "place": "The Counter",
+        "updatedAt": "2015-08-23T21:36:17.744Z",
+        "wordCount": 10,
+        "writers": [
+            "Keaton Brandt"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:36:52.747Z",
+        "date": "01/07/2015",
+        "haiku1": [
+            "Door",
+            "opened.",
+            "Watch",
+            "me."
+        ],
+        "haiku2": [
+            "Pancake",
+            "slapping",
+            "red",
+            "baboons"
+        ],
+        "haiku3": [
+            "Noodles",
+            "eugenics"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "H2MtjkHfaZ"
+        },
+        "objectId": "BUYsv5UWum",
+        "place": "인사동 전통찻집",
+        "updatedAt": "2015-08-23T21:36:52.747Z",
+        "wordCount": 10,
+        "writers": [
+            "Eric Kong"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:37:10.186Z",
+        "date": "01/07/2015",
+        "haiku1": [
+            "Chewing",
+            "monkey",
+            "brains"
+        ],
+        "haiku2": [
+            "Shrimp",
+            "steamed",
+            "meat",
+            "not",
+            "potato"
+        ],
+        "haiku3": [
+            "Chinese",
+            "Valentine"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "H2MtjkHfaZ"
+        },
+        "objectId": "j2RmvXIaX7",
+        "place": "인사동 전통찻집",
+        "updatedAt": "2015-08-23T21:37:10.186Z",
+        "wordCount": 10,
+        "writers": [
+            "Eric Kong"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:38:14.199Z",
+        "date": "03/08/2015",
+        "haiku1": [
+            "Falafel",
+            "sandwich"
+        ],
+        "haiku2": [
+            "Red",
+            "white",
+            "slimy",
+            "chocolate"
+        ],
+        "haiku3": [
+            "Kathy",
+            "gyro",
+            "rocks"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "UGgj28FQMV"
+        },
+        "objectId": "P5nbGofnZV",
+        "place": "Abyssinia",
+        "updatedAt": "2015-08-23T21:38:14.199Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman",
+            "Kathy Zhou",
+            "Melissa Fang",
+            "Karthik Sethuraman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:38:25.850Z",
+        "date": "03/08/2015",
+        "haiku1": [
+            "Sally",
+            "ramen",
+            "guts"
+        ],
+        "haiku2": [
+            "Define",
+            "the",
+            "contradiction."
+        ],
+        "haiku3": [
+            "Sally,",
+            "women",
+            "heart"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "UGgj28FQMV"
+        },
+        "objectId": "ze5Ulu6X7x",
+        "place": "Abyssinia",
+        "updatedAt": "2015-08-23T21:38:25.850Z",
+        "wordCount": 9,
+        "writers": [
+            "Carter Tilghman",
+            "Kathy Zhou",
+            "Melissa Fang",
+            "Karthik Sethuraman"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:39:08.902Z",
+        "date": "08/22/2014",
+        "haiku1": [
+            "Never",
+            "forget",
+            "socks"
+        ],
+        "haiku2": [
+            "nutrients",
+            "are",
+            "sometimes",
+            "clocks"
+        ],
+        "haiku3": [
+            "quarters",
+            "left",
+            "my",
+            "box."
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "v8XDKonrB3"
+        },
+        "objectId": "BxzqRXXeTL",
+        "place": "EH3 Lounge",
+        "updatedAt": "2015-08-23T21:39:08.902Z",
+        "wordCount": 11,
+        "writers": [
+            "Jessica Ramos",
+            "Tony Quan",
+            "Ifrah Majeed"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:39:23.345Z",
+        "date": "08/22/2014",
+        "haiku1": [
+            "shawarma",
+            "princess"
+        ],
+        "haiku2": [
+            "tastes",
+            "like",
+            "rotten",
+            "flesh",
+            "pies,",
+            "Nice."
+        ],
+        "haiku3": [
+            "bordering",
+            "hunger"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "v8XDKonrB3"
+        },
+        "objectId": "Jd2RCv8uV9",
+        "place": "EH3 Lounge",
+        "updatedAt": "2015-08-23T21:39:23.345Z",
+        "wordCount": 10,
+        "writers": [
+            "Jessica Ramos",
+            "Tony Quan",
+            "Ifrah Majeed"
+        ]
+    },
+	{
+        "createdAt": "2015-08-23T21:39:36.762Z",
+        "date": "08/22/2014",
+        "haiku1": [
+            "crazy",
+            "teenagers"
+        ],
+        "haiku2": [
+            "always",
+            "photosynthesize"
+        ],
+        "haiku3": [
+            "When",
+            "Jesus",
+            "strikes",
+            "fear"
+        ],
+        "image": {
+            "__type": "Pointer",
+            "className": "Image",
+            "objectId": "v8XDKonrB3"
+        },
+        "objectId": "OcjqlPCzoT",
+        "place": "EH3 Lounge",
+        "updatedAt": "2015-08-23T21:39:36.762Z",
+        "wordCount": 8,
+        "writers": [
+            "Jessica Ramos",
+            " Tony Quan",
+            " Ifrah Majeed"
+        ]
+    }
+] }
